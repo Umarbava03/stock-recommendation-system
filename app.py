@@ -1,7 +1,8 @@
 import requests
 import streamlit as st
+import os
+API_URL = os.getenv("API_URL", "http://127.0.0.1:8000/predict")
 
-API_URL = "http://127.0.0.1:8000/predict"
 
 
 def show_recommendation(label: str, recommendation: str) -> None:
@@ -18,7 +19,10 @@ st.set_page_config(page_title="Stock Recommendation Dashboard", layout="wide")
 st.title("Stock Recommendation Dashboard")
 st.write("Fetches predictions from your FastAPI backend.")
 
-symbol = st.text_input("Enter stock symbol", value="AMZN").upper()
+symbol = st.selectbox(
+    "Select stock symbol",
+    ["AMZN", "AAPL", "MSFT", "META", "NVDA", "TSLA", "JPM", "XOM", "JNJ", "WMT"],
+)
 
 if st.button("Predict"):
     try:
