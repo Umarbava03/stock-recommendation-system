@@ -1,0 +1,1392 @@
+[
+  {
+    "time_published": "2026-03-25 02:28:35",
+    "source": "MSN",
+    "summary": "Analyst Gary Black suggests that if SpaceX were to release an IPO prospectus, it could potentially draw investor interest away from Tesla, as many retail investors are already heavily invested in Elon Musk's companies. Black also notes that SpaceX might be more palatable to institutional investors who have avoided Tesla due to its CEO. Additionally, he highlights the potential for SpaceX CEO Gwynne Shotwell to gain significant recognition, similar to her increased visibility at a recent satellite conference.",
+    "headline": "SpaceX IPO prospectus almost here? Gary Black warns it could steal Tesla's investors",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.911344",
+        "ticker_sentiment_score": "0.137524",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 01:39:08",
+    "source": "Timothy Sykes",
+    "summary": "Stellantis has announced strategic moves to expand its charging infrastructure by integrating with Tesla's Supercharger network, making over 27,500 stalls available to North American users. The company is also actively pursuing partnerships in the Chinese market, negotiating with Zhejiang Leapmotor and exploring collaborations with Xiaomi and Xpeng to enhance its EV technology and market foothold. Despite potential market pressures impacting profitability, Stellantis's focus on alliances and technological adoption aims to solidify its global position and appeal in the electric vehicle segment.",
+    "headline": "Stellantis Expands Charging Infrastructure with Tesla Superchargers",
+    "ticker_sentiment": [
+      {
+        "ticker": "STLA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.252471",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.744019",
+        "ticker_sentiment_score": "0.212850",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "ALB",
+        "relevance_score": "0.568279",
+        "ticker_sentiment_score": "0.046580",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "C",
+        "relevance_score": "0.625230",
+        "ticker_sentiment_score": "0.006659",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 00:09:37",
+    "source": "MarketBeat",
+    "summary": "Short interest in Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) plummeted by 92.3% in March, totaling 78,106 shares. This drastic reduction means that only 5.6% of the company's float is sold short, resulting in a short-interest ratio of 0.0 days. The fund also declared a quarterly dividend of $0.338 per share, which will be paid on March 31st with an ex-dividend date of March 24th.",
+    "headline": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) Short Interest Down 92.3% in March",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLS",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.057202",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.633234",
+        "ticker_sentiment_score": "-0.120864",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 22:09:37",
+    "source": "MarketBeat",
+    "summary": "Direxion Daily TSLA Bear 1X Shares (TSLS) has declared a quarterly dividend of $0.338 per share, payable on March 31st to shareholders of record on March 24th, with an ex-dividend date of March 24th. This represents an annualized yield of approximately 2.3%. The ETF provides inverse (-1x) exposure to Tesla's daily price movements and has seen recent institutional investor activity with some firms increasing their positions.",
+    "headline": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) Announces $0.34 Quarterly Dividend",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLS",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.105648",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.644949",
+        "ticker_sentiment_score": "0.120340",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 21:08:57",
+    "source": "GlobalChinaEV",
+    "summary": "NIO's Firefly compact electric hatchback has officially launched in Thailand at the Bangkok International Motor Show, priced at 799,000 THB (approximately $24,500). This marks Thailand as its second right-hand drive market, where it's being distributed by Thonburi BlueSky. The model, built on NIO's FT1 platform, offers a 330 km WLTP range, fast charging, and advanced safety features, positioning itself in the premium urban segment.",
+    "headline": "NIO Firefly debuts its compact EV at Bangkok auto show starting at $24,500",
+    "ticker_sentiment": [
+      {
+        "ticker": "NIO",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.348475",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.641794",
+        "ticker_sentiment_score": "0.148763",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 20:55:08",
+    "source": "AD HOC NEWS",
+    "summary": "Aptiv plc continues to show strong hiring activity in Michigan for ADAS engineering roles despite a broader slowdown in the EV sector. This sustained investment in talent suggests Aptiv is committed to its core competencies in advanced driver assistance systems and electrification solutions. For US investors, Aptiv represents a resilient player in the automotive technology sector, balancing near-term market volatility with long-term growth potential in software-defined vehicles and autonomous driving.",
+    "headline": "Aptiv plc stock faces uncertainty amid EV slowdown and ADAS hiring signals in key US markets",
+    "ticker_sentiment": [
+      {
+        "ticker": "APTV",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.109297",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GM",
+        "relevance_score": "0.611706",
+        "ticker_sentiment_score": "0.143672",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "F",
+        "relevance_score": "0.648728",
+        "ticker_sentiment_score": "0.110778",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.624564",
+        "ticker_sentiment_score": "-0.145626",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 20:49:12",
+    "source": "The Globe and Mail",
+    "summary": "This article compares Rivian (NASDAQ: RIVN) and Lucid Group (NASDAQ: LCID) to determine which electric vehicle stock offers a better investment opportunity. While both companies are working towards profitability and scaling up, Rivian is presented as the stronger buy due to its growing software and services business and its upcoming, more affordable SUV models, including a significant partnership with Uber for robotaxis. Lucid is also growing, but its path to profitability appears less clear despite rising revenues and new models like the Lucid Gravity.",
+    "headline": "Rivian vs. Lucid: Which EV Stock Is the Better Buy?",
+    "ticker_sentiment": [
+      {
+        "ticker": "LCID",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.207600",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "UBER",
+        "relevance_score": "0.739498",
+        "ticker_sentiment_score": "0.303939",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.605393",
+        "ticker_sentiment_score": "-0.108226",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GM",
+        "relevance_score": "0.551080",
+        "ticker_sentiment_score": "-0.065536",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 19:59:12",
+    "source": "AD HOC NEWS",
+    "summary": "BorgWarner Inc. is navigating a complex automotive landscape as demand for EV components slows while traditional internal combustion engine parts remain steady. The company's diversified portfolio, strong financial health with manageable net debt, and strategic positioning in hybrid technologies are highlighted as strengths. However, risks like geopolitical tensions, raw material volatility, and competition from EV pure-plays necessitate careful monitoring for investors.",
+    "headline": "BorgWarner Inc. stock faces pressure amid EV transition slowdown and automotive supply chain shifts",
+    "ticker_sentiment": [
+      {
+        "ticker": "BWA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.080012",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "F",
+        "relevance_score": "0.715386",
+        "ticker_sentiment_score": "-0.068756",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GM",
+        "relevance_score": "0.642065",
+        "ticker_sentiment_score": "0.118343",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.568097",
+        "ticker_sentiment_score": "-0.131030",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "QCOM",
+        "relevance_score": "0.591623",
+        "ticker_sentiment_score": "0.052324",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 18:01:24",
+    "source": "The Business Journals",
+    "summary": "Tesla has filed a site plan for a park touted as an \"ecological paradise\" adjacent to its Austin gigafactory, an idea Elon Musk first proposed five years ago. Locals are expected to have access to the riverfront park. The announcement comes amidst public skepticism surrounding the project.",
+    "headline": "Tesla files site plan for 'ecological paradise' beside Austin gigafactory",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.215599",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 16:09:37",
+    "source": "Defense World",
+    "summary": "Shares of Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) fell 3.5% on Monday, trading at $59.36 after opening as low as $58.60. Trading volume was significantly lower than average. Institutional investors have recently adjusted their holdings in TSLS, with some increasing and others initiating new positions.",
+    "headline": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) Shares Down 3.5% \u2013 Time to Sell?",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLS",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.296165",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.888624",
+        "ticker_sentiment_score": "0.320043",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 12:08:33",
+    "source": "Fox Business",
+    "summary": "Elon Musk announced that Tesla and SpaceX will construct a new advanced chip manufacturing facility, dubbed \"Terafab,\" in Austin, Texas. This facility will comprise two separate fabs, one dedicated to AI chips for Tesla's electric vehicles and Optimus robots, and the other for space-based data centers for SpaceX. Musk stated that the immense demand from his companies for computing power necessitates this move, as it will soon exceed global chip production capabilities.",
+    "headline": "Musk says Tesla, SpaceX to build advanced chip manufacturing facility",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.415761",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMD",
+        "relevance_score": "0.721654",
+        "ticker_sentiment_score": "0.304841",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MU",
+        "relevance_score": "0.637577",
+        "ticker_sentiment_score": "0.285683",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.612328",
+        "ticker_sentiment_score": "0.329883",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "INTC",
+        "relevance_score": "0.553670",
+        "ticker_sentiment_score": "-0.124714",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 11:58:00",
+    "source": "Stock Traders Daily",
+    "summary": "This article provides key findings and AI-generated trading strategies for Kurv Yield Premium Strategy Tesla (tsla) Etf (NASDAQ: TSLP). It indicates weak near- and mid-term sentiment but a strong long-term outlook, with elevated downside risk due to a lack of additional long-term support signals. The analysis includes position trading, momentum breakout, and risk hedging strategies with specific entry, target, and stop-loss zones.",
+    "headline": "(TSLP) and the Role of Price-Sensitive Allocations",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLP",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.314327",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.644522",
+        "ticker_sentiment_score": "-0.347435",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 10:08:31",
+    "source": "MarketBeat",
+    "summary": "Financial Management Network Inc. increased its stake in Tesla (NASDAQ:TSLA) by 11.6% in Q4, bringing its holdings to 16,323 shares valued at $7.15 million. Tesla's Q4 earnings beat estimates with EPS of $0.50 and revenue of $24.9 billion, but the stock trades at a high PE ratio of 352.64. The article highlights mixed market catalysts, including positive developments like planned Terafab chip factories and FSD software progress, alongside negative factors such as a regulatory probe into FSD and recent insider selling.",
+    "headline": "Financial Management Network Inc. Grows Holdings in Tesla, Inc. $TSLA",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.011425",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 10:08:10",
+    "source": "Benzinga",
+    "summary": "NVIDIA CEO Jensen Huang controversially stated on the Lex Fridman podcast that he believes Artificial General Intelligence (AGI) has already been achieved, defining it as an AI capable of building and running a billion-dollar company, even if short-lived. This view challenges his previous five-year projection and differs from other industry leaders like ex-Tesla AI Chief Andrej Karpathy and OpenAI CEO Sam Altman, who foresee AGI reaching human-level or surpassing capabilities in the coming years. Elon Musk also asserted that Tesla would likely develop AGI first.",
+    "headline": "Nvidia CEO Jensen Huang Drops A Bombshell\u2014 'I Think We've Achieved AGI'",
+    "ticker_sentiment": [
+      {
+        "ticker": "NVDA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.435524",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.733986",
+        "ticker_sentiment_score": "0.135636",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOG",
+        "relevance_score": "0.647209",
+        "ticker_sentiment_score": "0.120155",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.601054",
+        "ticker_sentiment_score": "0.111311",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 10:07:37",
+    "source": "Mint",
+    "summary": "Ford Motor is aggressively integrating artificial intelligence across its engineering, software, and enterprise systems to transform into a software-led mobility company. This initiative, driven by its EPEO organization, aims to accelerate processes like engineering simulations and enhance productivity, with India serving as a growing hub for strategic AI and platform development. The move is crucial for Ford as it navigates rising EV losses and aims to compete with new electric vehicle entrants by generating recurring revenue from software and digital services.",
+    "headline": "How Ford is using AI to power its next-gen ambitions",
+    "ticker_sentiment": [
+      {
+        "ticker": "F",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.222141",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GM",
+        "relevance_score": "0.690483",
+        "ticker_sentiment_score": "0.203343",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.657952",
+        "ticker_sentiment_score": "0.195738",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 09:24:32",
+    "source": "MarketBeat",
+    "summary": "MFG Wealth Management Inc. reduced its stake in NVIDIA Corporation by 15.6% during Q4, now owning 18,195 shares valued at $3.39 million, making it their 8th largest holding. Despite this, NVIDIA continues to show strong financial performance with Q4 EPS of $1.62 and revenue of $68.13 billion, prompting a \"Buy\" consensus from Wall Street and an average target price of $275.95. However, the article notes near-term risks including insider selling, regulatory scrutiny, and technical downside warnings.",
+    "headline": "MFG Wealth Management Inc. Has $3.39 Million Stake in NVIDIA Corporation $NVDA",
+    "ticker_sentiment": [
+      {
+        "ticker": "NVDA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.220985",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "SMCI",
+        "relevance_score": "0.632018",
+        "ticker_sentiment_score": "0.128566",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MU",
+        "relevance_score": "0.636621",
+        "ticker_sentiment_score": "0.123081",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "PLTR",
+        "relevance_score": "0.614139",
+        "ticker_sentiment_score": "0.103868",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.643651",
+        "ticker_sentiment_score": "0.140234",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-24 04:09:32",
+    "source": "Insider Monkey",
+    "summary": "AXT Inc. (NASDAQ:AXT) reached a new all-time high, driven by an optimistic Q1 outlook and strong demand for indium phosphide. The company cited progress in export permits and an expanding customer base, including Tier-1 companies, with plans to double indium phosphide manufacturing capacity. CEO Morris Young expressed confidence in continued business expansion supported by a strong balance sheet.",
+    "headline": "AXT Inc. (AXT) Soars to All-Time High as Firm Upbeat on Q1",
+    "ticker_sentiment": [
+      {
+        "ticker": "AXTI",
+        "relevance_score": "0.320633",
+        "ticker_sentiment_score": "0.026138",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.609448",
+        "ticker_sentiment_score": "0.344209",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.631422",
+        "ticker_sentiment_score": "0.204288",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.644952",
+        "ticker_sentiment_score": "0.222561",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.618639",
+        "ticker_sentiment_score": "0.300579",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 23:08:33",
+    "source": "Austin American-Statesman",
+    "summary": "Elon Musk announced plans for Tesla and SpaceX to build the world's largest chip manufacturing facility, dubbed \"Terafab,\" in Austin, Texas, to produce chips for AI and space data centers. While a small chip design facility will be located at Tesla's Gigafactory Texas, the main Terafab will be a massive 100 million square feet, dwarfing Samsung's plant in Taylor, with locations still under consideration. This ambitious project aims to meet the companies' growing need for semiconductors, which Musk states current suppliers cannot provide at the desired pace.",
+    "headline": "'Largest chip manufacturing facility ever': Elon Musk to build part of Terafab in Austin",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.326127",
+        "ticker_sentiment_score": "0.013941",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 21:40:11",
+    "source": "\u5bcc\u9014\u725b\u725b",
+    "summary": "This article reports on the options trading activity for Direxion Daily TSLA Bull 2X Shares (TSLL) from March 23rd. It highlights that 134.93K contracts were traded, with a notable open interest of 952.56K. The data suggests significant investor attention and positioning around this leveraged ETF tracking Tesla.",
+    "headline": "Direxion Daily TSLA Bull 2X Shares Options Spot-On: On March 23rd, 134.93K Contracts Were Traded, With 952.56K Open Interest",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLL",
+        "relevance_score": "0.347637",
+        "ticker_sentiment_score": "0.009613",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.803791",
+        "ticker_sentiment_score": "0.039908",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 19:09:05",
+    "source": "StocksToTrade",
+    "summary": "XPeng Inc.'s stock surged by 7.12% following its Q4 earnings report, which showed a turnaround with an EPS of $0.04 and revenue of $3.18 billion, marking its first-ever quarterly net profit. While investor confidence is buoyed by robust deliveries and strategic partnerships with Volkswagen and Stellantis, a Q1 revenue guidance highlighting a potential dip of 16-23% signals near-term challenges and has led to some cautious outlooks from analysts. The company aims to leverage AI-driven technology and an expanded product mix to navigate competitive pressures in the EV market.",
+    "headline": "XPeng\u2019s Stock Climbs As Earnings Surpass Expectations",
+    "ticker_sentiment": [
+      {
+        "ticker": "XPEV",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.607189",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MS",
+        "relevance_score": "0.622757",
+        "ticker_sentiment_score": "0.504726",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.620849",
+        "ticker_sentiment_score": "-0.101407",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "C",
+        "relevance_score": "0.620786",
+        "ticker_sentiment_score": "0.204231",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 18:39:53",
+    "source": "Intellectia AI",
+    "summary": "This page provides news and event updates for Waterstone Financial (WSBF) stock, including dividend declarations, earnings reports, and financial performance highlights. Recent news covers an increased quarterly cash dividend and a Q3 earnings report showing a 73% year-over-year increase driven by higher loan yields. The events section details a dividend increase to 17 cents per share and specific Q3 earnings figures.",
+    "headline": "WSBF Stock News Today | Earnings, Events & Price Alerts",
+    "ticker_sentiment": [
+      {
+        "ticker": "WSBF",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.323030",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "CAT",
+        "relevance_score": "0.648262",
+        "ticker_sentiment_score": "0.115263",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "QCOM",
+        "relevance_score": "0.635500",
+        "ticker_sentiment_score": "0.120813",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.634306",
+        "ticker_sentiment_score": "0.136904",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 18:38:22",
+    "source": "T. Rowe Price",
+    "summary": "This report reviews the 2026 pre-AGM season, highlighting key governance developments across the Americas, EMEA, and APAC regions. It discusses controversial shareholder proposals in the U.S., emerging \"moonshot\" incentive plans in American technology companies, and the ongoing focus on competitive pay in Europe. Additionally, the report examines shareholder activism in APAC, particularly in Japan and South Korea, and outlines changes to T. Rowe Price's proxy voting guidelines for each region.",
+    "headline": "2026 Pre-AGM Season Review",
+    "ticker_sentiment": [
+      {
+        "ticker": "TROW",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.214168",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSCI",
+        "relevance_score": "0.745525",
+        "ticker_sentiment_score": "0.137965",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "JPM",
+        "relevance_score": "0.624991",
+        "ticker_sentiment_score": "0.107159",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "WFC",
+        "relevance_score": "0.638825",
+        "ticker_sentiment_score": "0.134189",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.641068",
+        "ticker_sentiment_score": "0.238319",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 18:07:31",
+    "source": "Barron's",
+    "summary": "Stock futures were rising Monday, a trend that continued into the trading day for several companies including Norwegian, Super Micro, Freeport-McMoRan, Tesla, United Airlines, and Synopsys. This positive market movement was attributed to hopes for a de-escalation of tensions in the Middle East following comments from former President Trump. The article suggests that \"productive conversations\" between the U.S. and Iran have boosted investor confidence.",
+    "headline": "Norwegian, Freeport-McMoRan, Super Micro, Tesla, United, Synopsys, and More Stock Movers",
+    "ticker_sentiment": [
+      {
+        "ticker": "FCX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.246345",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NCLH",
+        "relevance_score": "0.885414",
+        "ticker_sentiment_score": "0.245202",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "SMCI",
+        "relevance_score": "0.889350",
+        "ticker_sentiment_score": "0.209435",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.876948",
+        "ticker_sentiment_score": "0.203178",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "UAL",
+        "relevance_score": "0.893972",
+        "ticker_sentiment_score": "0.201824",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 17:31:00",
+    "source": "Yahoo Finance UK",
+    "summary": "Elon Musk has announced the Terafab project, a joint venture between Tesla, SpaceX, and xAI, aimed at revolutionizing chip manufacturing for both space and AI applications. This ambitious undertaking seeks to produce over a terawatt of compute per year, with a significant portion dedicated to space. Musk envisions the Terafab as a comprehensive facility that will integrate all stages of chip development, supporting autonomous vehicles, humanoid robots, and solar-powered AI satellites, with an eye towards establishing an industrial base on the moon and a \"galactic civilization.\"",
+    "headline": "Elon Musk Unveils Ambitious Terafab Plans For Tesla, SpaceX: 'We're Starting A Galactic Civilization'",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.475938",
+        "ticker_sentiment_label": "Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 16:39:47",
+    "source": "Investing.com",
+    "summary": "Kodiak Gas Services Inc. reached an all-time high stock price of $58.51, reflecting a 48.28% surge over the past year and a 63% return in the last six months. The company's recent strategic moves, including a $24 million acquisition of compression assets and a $1 billion notes offering, along with positive analyst ratings, have contributed to investor confidence, despite some InvestingPro analysis suggesting the stock is currently overvalued.",
+    "headline": "Kodiak Gas Services stock hits all-time high at 58.51 USD",
+    "ticker_sentiment": [
+      {
+        "ticker": "KGS",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.489931",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MU",
+        "relevance_score": "0.592658",
+        "ticker_sentiment_score": "-0.223373",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.582558",
+        "ticker_sentiment_score": "0.149489",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.575924",
+        "ticker_sentiment_score": "0.117539",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "RCL",
+        "relevance_score": "0.579699",
+        "ticker_sentiment_score": "0.103325",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 16:37:35",
+    "source": "Barron's",
+    "summary": "This article identifies several stocks, including Norwegian, Super Micro, Freeport-McMoRan, Tesla, United Airlines, and Synopsys, as today's market movers. The rise in these stocks on Monday is attributed to an optimistic post by President Donald Trump on Truth Social, which suggested progress in U.S.-Iran relations and a potential de-escalation of tensions in the Middle East.",
+    "headline": "These Stocks Are Today\u2019s Movers: Norwegian, Freeport-McMoRan, Super Micro, Tesla, United Airlines, and More",
+    "ticker_sentiment": [
+      {
+        "ticker": "FCX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.258580",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NCLH",
+        "relevance_score": "0.854402",
+        "ticker_sentiment_score": "0.203201",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "SMCI",
+        "relevance_score": "0.819141",
+        "ticker_sentiment_score": "0.229045",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.792411",
+        "ticker_sentiment_score": "0.218583",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "UAL",
+        "relevance_score": "0.721507",
+        "ticker_sentiment_score": "0.236754",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 15:41:49",
+    "source": "Stock Titan",
+    "summary": "The Bank of Nova Scotia (BNS) is offering market-linked, auto-callable equity-linked senior notes tied to the performance of Advanced Micro Devices (AMD), NVIDIA (NVDA), and Tesla (TSLA) common stocks. These notes, with a $1,000 face amount, pay no interest and may be automatically called on April 1, 2027, with a 50% call premium if the lowest-performing stock meets its call threshold. If not called, maturity is April 2, 2029, with payouts based on the lowest-performing stock's performance, subject to a leveraged upside participation rate and a contingent absolute-return feature.",
+    "headline": "Bank of Nova Scotia (BNS) offers auto\u2011callable notes linked to AMD, NVDA, TSLA",
+    "ticker_sentiment": [
+      {
+        "ticker": "BNS",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.046183",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMD",
+        "relevance_score": "0.847973",
+        "ticker_sentiment_score": "0.041076",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.800389",
+        "ticker_sentiment_score": "0.035598",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.842829",
+        "ticker_sentiment_score": "0.023763",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 15:37:45",
+    "source": "The Globe and Mail",
+    "summary": "This article analyzes whether Tesla (TSLA) or General Motors (GM) is better positioned in the current automotive landscape, given shifts in EV demand and company strategies. While Tesla faces challenges with weakening EV demand and competition, it's pivoting towards AI, autonomy, and robotics. General Motors, on the other hand, is benefiting from strong U.S. market share, improved margins, a growing software business, and shareholder-friendly capital returns, making it appear to be the better investment at this time.",
+    "headline": "Tesla or General Motors: Which Stock is Better Positioned Now?",
+    "ticker_sentiment": [
+      {
+        "ticker": "GM",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.328371",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.293741",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 14:08:58",
+    "source": "TipRanks",
+    "summary": "Off The Hook YS Inc. (OTH) is launching its NextBoat AI platform at the Palm Beach International Boat Show, aiming to revolutionize the used-boat market by efficiently matching buyers and sellers. This AI-driven tool leverages extensive proprietary data to address market inefficiencies, enhance liquidity, and solidify Off The Hook's competitive edge in the marine industry. TipRanks' AI Analyst, Spark, assesses OTH as Neutral due to concerns about its financial quality despite positive corporate updates.",
+    "headline": "Off The Hook YS Unveils NextBoat AI Platform",
+    "ticker_sentiment": [
+      {
+        "ticker": "OTH",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.136239",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NFLX",
+        "relevance_score": "0.514609",
+        "ticker_sentiment_score": "0.249842",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.532121",
+        "ticker_sentiment_score": "-0.349019",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 14:07:34",
+    "source": "Barron's",
+    "summary": "Stock futures were rising Monday following a post by Trump on Truth Social, which fueled optimism for a resolution to the war in Iran. President Donald Trump indicated a five-day pause in U.S. strikes on Iran's energy infrastructure during ongoing peace talks. The article lists Norwegian, Freeport-McMoRan, Super Micro, Tesla, and United Airlines among the stock movers mentioned.",
+    "headline": "Norwegian, Freeport-McMoRan, Super Micro, Tesla, United Airlines, and More Stock Movers",
+    "ticker_sentiment": [
+      {
+        "ticker": "FCX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.187558",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NCLH",
+        "relevance_score": "0.823715",
+        "ticker_sentiment_score": "0.153437",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "SMCI",
+        "relevance_score": "0.727083",
+        "ticker_sentiment_score": "0.165707",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.836875",
+        "ticker_sentiment_score": "0.168346",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "UAL",
+        "relevance_score": "0.829539",
+        "ticker_sentiment_score": "0.152102",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 13:34:38",
+    "source": "TIKR.com",
+    "summary": "General Motors is transforming its business model by monetizing its existing fleet through recurring software revenues, particularly with its OnStar and Super Cruise systems. This strategic shift, combined with aggressive share buybacks and cost-cutting in its EV strategy, is projected to drive significant margin expansion and boost EPS. TIKR's analysis supports a target price of $93, reflecting Wall Street's growing recognition of GM's move towards a high-margin technology operation.",
+    "headline": "General Motors BofA Summit: Software and Buybacks Power a $130 Target",
+    "ticker_sentiment": [
+      {
+        "ticker": "GM",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.405448",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "F",
+        "relevance_score": "0.610254",
+        "ticker_sentiment_score": "0.224450",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.614711",
+        "ticker_sentiment_score": "0.126526",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 13:08:28",
+    "source": "Investing.com",
+    "summary": "Cantor Fitzgerald has reiterated an Overweight rating on VinFast Auto Ltd. (NASDAQ:VFS), citing management's ambitious 2026 vehicle delivery target of 300,000 units and plans to expand into robotaxis and humanoids. The company demonstrated significant revenue growth and market share gains in Southeast Asia in 2025, despite grappling with a negative gross profit margin. With the stock trading below its InvestingPro Fair Value, Cantor Fitzgerald maintains a $6 price target.",
+    "headline": "Cantor Fitzgerald reiterates Overweight on VinFast stock",
+    "ticker_sentiment": [
+      {
+        "ticker": "VFS",
+        "relevance_score": "0.969893",
+        "ticker_sentiment_score": "0.261989",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.627073",
+        "ticker_sentiment_score": "0.039656",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 13:07:52",
+    "source": "TradingView",
+    "summary": "This article compares Tesla (TSLA) and General Motors (GM) as both companies recalibrate their strategies in a changing auto landscape. While Tesla faces challenges with slowing EV demand and intensifying competition, it is pivoting towards AI, robotics, and energy storage. General Motors, on the other hand, is refocusing on ICE vehicles and hybrids, and is seeing strong performance in software and services. The analysis concludes that GM appears better positioned due to its improving margins, growing software business, and shareholder-friendly capital returns, while Tesla's long-term vision is compelling but uncertain and capital-intensive.",
+    "headline": "Tesla or General Motors: Which Stock is Better Positioned Now?",
+    "ticker_sentiment": [
+      {
+        "ticker": "GM",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.268048",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.925269",
+        "ticker_sentiment_score": "-0.223886",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 13:02:21",
+    "source": "Yahoo! Finance Canada",
+    "summary": "Elliott Investment Management has reportedly acquired a multibillion-dollar stake in Synopsys Inc., a chip-design software company. The activist investor plans to engage with Synopsys to enhance how it monetizes its software and services portfolio. This move is expected to push Synopsys towards extracting greater value from its offerings, which are crucial for the semiconductor and technology industries, as Elliott is known for advocating for strategic changes to boost shareholder returns.",
+    "headline": "Elliott Investment Management takes multibillion-dollar stake in Synopsys, plans engagement",
+    "ticker_sentiment": [
+      {
+        "ticker": "SNPS",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.443868",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "INTC",
+        "relevance_score": "0.632269",
+        "ticker_sentiment_score": "0.106098",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.641791",
+        "ticker_sentiment_score": "0.143959",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.635336",
+        "ticker_sentiment_score": "0.143603",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 12:10:18",
+    "source": "Investing.com",
+    "summary": "Scholastic Corporation has initiated a modified Dutch auction tender offer to repurchase up to $200 million of its common stock at prices ranging from $36.00 to $40.00 per share. The offer, which expires on April 20, 2026, aims to buy back approximately 25% of outstanding shares at the minimum price. Despite a recent revenue shortfall, the company's stock has surged 81% over the past year and analysts suggest it remains undervalued.",
+    "headline": "Scholastic launches $200M Dutch auction tender offer",
+    "ticker_sentiment": [
+      {
+        "ticker": "SCHL",
+        "relevance_score": "0.965638",
+        "ticker_sentiment_score": "0.276829",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MU",
+        "relevance_score": "0.680179",
+        "ticker_sentiment_score": "-0.289427",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.634211",
+        "ticker_sentiment_score": "0.247735",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AAPL",
+        "relevance_score": "0.556067",
+        "ticker_sentiment_score": "0.247121",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.572142",
+        "ticker_sentiment_score": "0.213026",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 12:09:05",
+    "source": "Polymarket",
+    "summary": "This Polymarket prediction delves into the likelihood of Tesla (TSLA) closing above a certain price on March 24, 2026, with current odds leaning towards $350 and $360. The market's resolution is based on Yahoo Finance's official closing price, with specific rules for shortened sessions, trading halts, and corporate actions like stock splits. Trader sentiment reflects cautious optimism, driven by Q4 delivery expectations and upcoming financial news, though tempered by pricing pressures and competition.",
+    "headline": "Tesla (TSLA) closes above ___ on March 24? Trading Odds & Predictions",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.148012",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 11:12:12",
+    "source": "GlobeNewswire",
+    "summary": "YieldMax\u00ae ETFs announced distributions for its Performance & Distribution Target 25\u2122 ETFs, MSST, NVIT, and TEST, with an ex-date of March 24, 2026, and payment date of March 25, 2026. These ETFs aim to generate income with a 25% target annual income level. The announcement includes distribution per share, distribution rate, 30-Day SEC Yield, and Return of Capital for each fund, along with important risk disclosures.",
+    "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
+    "ticker_sentiment": [
+      {
+        "ticker": "MSST",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.115713",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.829816",
+        "ticker_sentiment_score": "0.111180",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.844561",
+        "ticker_sentiment_score": "0.136955",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.639922",
+        "ticker_sentiment_score": "0.108583",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 11:09:21",
+    "source": "Barron's",
+    "summary": "The stock market broadly rallied on Monday, with the Dow Jones Industrial Average rising 631 points, the S&P 500 up 1.2%, and the Nasdaq Composite up 1.4%. This surge followed news that the U.S. delayed strikes against Iran and held \"good and productive conversations\" regarding an end to fighting in the Middle East, leading to a significant drop in crude oil prices. However, stocks pared some gains in the afternoon after some Iranian officials denied negotiations, though risk assets remained strong.",
+    "headline": "S&P 500 Futures Rise in Premarket Trading; Insmed, Mobileye Global Lead",
+    "ticker_sentiment": [
+      {
+        "ticker": "INSM",
+        "relevance_score": "0.312298",
+        "ticker_sentiment_score": "0.009406",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.702137",
+        "ticker_sentiment_score": "0.418233",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "JPM",
+        "relevance_score": "0.648130",
+        "ticker_sentiment_score": "0.384415",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MS",
+        "relevance_score": "0.648759",
+        "ticker_sentiment_score": "0.419524",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "GS",
+        "relevance_score": "0.635867",
+        "ticker_sentiment_score": "0.411533",
+        "ticker_sentiment_label": "Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 11:08:57",
+    "source": "GlobeNewswire",
+    "summary": "YieldMax\u00ae ETFs has announced distributions for its MSST, NVIT, and TEST ETFs, part of the YieldMax\u00ae Performance & Distribution Target 25\u2122 series, with an ex-dividend and record date of March 24, 2026, and payment on March 25, 2026. These ETFs aim to generate income with a 25% target annual income level. The announcement includes detailed distribution per share, distribution rate, and 30-day SEC yield for each ETF, alongside important disclosures about investment risks and performance fluctuations.",
+    "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
+    "ticker_sentiment": [
+      {
+        "ticker": "MSST",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.201579",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.609074",
+        "ticker_sentiment_score": "0.112037",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.646333",
+        "ticker_sentiment_score": "0.100013",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 10:45:28",
+    "source": "Repairer Driven News",
+    "summary": "Ford plans to incorporate megacasting into its future mid-sized electric pickup trucks aiming to lower both manufacturing and repair costs. While initial concerns about higher repair expenses due to large, single-piece components were raised, research from Thatcham Research on the Tesla Model Y suggests that properly implemented megacasting can lead to lower repair costs and improved sustainability. The article highlights that design for repairability from the outset and specialized training for technicians are key to realizing these benefits.",
+    "headline": "Automotive News explores repair costs of megacasting as Ford plans use in future EV",
+    "ticker_sentiment": [
+      {
+        "ticker": "F",
+        "relevance_score": "0.986021",
+        "ticker_sentiment_score": "0.246388",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.731393",
+        "ticker_sentiment_score": "0.336490",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GM",
+        "relevance_score": "0.555446",
+        "ticker_sentiment_score": "0.133959",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 10:42:16",
+    "source": "Barron's",
+    "summary": "Stock futures were down on Monday following President Donald Trump's threat to \"hit and obliterate\" Iranian power plants if the Strait of Hormuz was not reopened within 48 hours. This article lists several stock market movers for the day, including Tesla, SMCI, Synopsys, Lumentum, NEM, and FCX against the backdrop of this geopolitical tension.",
+    "headline": "Tesla, SMCI, Synopsys, Lumentum, and More Stock Market Movers",
+    "ticker_sentiment": [
+      {
+        "ticker": "SNPS",
+        "relevance_score": "0.847726",
+        "ticker_sentiment_score": "-0.116990",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.806731",
+        "ticker_sentiment_score": "-0.143448",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "SMCI",
+        "relevance_score": "0.841822",
+        "ticker_sentiment_score": "-0.128524",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "FCX",
+        "relevance_score": "0.623536",
+        "ticker_sentiment_score": "-0.149748",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NEM",
+        "relevance_score": "0.632622",
+        "ticker_sentiment_score": "-0.102636",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 10:19:27",
+    "source": "Investing.com",
+    "summary": "Barclays has maintained an Equalweight rating on Tesla (NASDAQ:TSLA) with a $360 price target, despite the stock trading slightly higher at $367.96. The firm's analyst indicated that Tesla's capital expenditures are expected to significantly exceed earlier estimates, potentially going \"many multiples higher\" than the $50 billion bull case for Terafab. Tesla also faces increased scrutiny from the U.S. National Highway Traffic Safety Administration regarding its driver assistance system, leading GLJ Research to reiterate a Sell rating, while Morgan Stanley and Stifel maintained positive outlooks based on robotaxi potential and strong automotive margins, respectively.",
+    "headline": "Barclays reiterates Tesla stock Equalweight rating at $360 target",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.196926",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "MS",
+        "relevance_score": "0.647740",
+        "ticker_sentiment_score": "0.211501",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GS",
+        "relevance_score": "0.621825",
+        "ticker_sentiment_score": "0.116374",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 10:08:33",
+    "source": "San Antonio Express-News",
+    "summary": "The sole survivor of a fiery 2024 Cybertruck crash, Jordan Miller, is suing Tesla, alleging the vehicle's flawed design trapped him in the burning truck and prevented rescue. Three college students died in the incident after a friend struggled to open the doors and break the reinforced glass to save them. The lawsuit claims Tesla prioritized aesthetics over safety, despite knowing the dangers of its electronic door systems.",
+    "headline": "'He just sat there in flames': Tesla sued by sole survivor of Cybertruck crash",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.425550",
+        "ticker_sentiment_label": "Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 09:39:33",
+    "source": "Benzinga",
+    "summary": "XPeng Inc. (NYSE: XPEV) is reportedly forming a dedicated Robotaxi division to accelerate its planned commercial robotaxi rollout. This move comes as the company recently reported worse-than-expected Q4 2025 earnings and soft first-quarter delivery guidance, despite a 38.2% year-over-year jump in quarterly revenue. The new division aims to accelerate the deployment of the three robotaxi models XPeng plans to release this year.",
+    "headline": "Tesla Rival XPeng Sets Up Robotaxi Unit Ahead Of Commercial Rollout: Report",
+    "ticker_sentiment": [
+      {
+        "ticker": "XPEV",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.201675",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.748503",
+        "ticker_sentiment_score": "0.134909",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 07:38:46",
+    "source": "Investor's Business Daily",
+    "summary": "U.S. Bancorp (USB) saw its Relative Strength (RS) Rating increase from 70 to 73 on Monday, indicating improving share price performance. The RS Rating, an exclusive Investor's Business Daily metric, measures a stock's 52-week price behavior against others. While this upgrade signifies positive momentum, the article suggests USB is still working towards reaching a key technical benchmark.",
+    "headline": "U.S. Bancorp Trying To Close In On Key Technical Benchmark",
+    "ticker_sentiment": [
+      {
+        "ticker": "USB",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.321476",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "HBAN",
+        "relevance_score": "0.621618",
+        "ticker_sentiment_score": "0.310313",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "PLTR",
+        "relevance_score": "0.632694",
+        "ticker_sentiment_score": "0.259669",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.620729",
+        "ticker_sentiment_score": "0.212749",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-23 03:08:30",
+    "source": "Stocktwits",
+    "summary": "Tesla (TSLA) stock slipped in premarket trading after an analyst, Gary Black, warned that a potential merger with SpaceX could erase around $750 billion in value due to the \"lowest-multiple rule.\" Black suggests that merged companies typically trade at the lower valuation multiple of the two entities, which would dilute Tesla's value unless a rare \"Buffett premium\" is applied. This speculation comes as integration across Elon Musk\u2019s companies intensifies, following SpaceX's merger with xAI and regulatory clearances for Tesla's investment in xAI to convert into a SpaceX stake.",
+    "headline": "Tesla Stock Slips Premarket: Analyst Warns SpaceX Merger Could Erase $750B In Value",
+    "ticker_sentiment": [
+      {
+        "ticker": "TSLA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.447116",
+        "ticker_sentiment_label": "Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-22 23:16:12",
+    "source": "Investing.com Canada",
+    "summary": "Activist investor Elliott Investment Management has reportedly built a multi-billion dollar stake in Synopsys Inc. Elliott plans to pressure Synopsys to enhance profitability from its software and services. The investment is driven by Synopsys' strong position in the global chipmaking industry and its potential to benefit from increasing AI-driven chip demand.",
+    "headline": "Elliott builds major stake in chip design software firm Synopsys- WSJ",
+    "ticker_sentiment": [
+      {
+        "ticker": "SNPS",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.472363",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "INTC",
+        "relevance_score": "0.613298",
+        "ticker_sentiment_score": "0.135703",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.649344",
+        "ticker_sentiment_score": "0.144491",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.644613",
+        "ticker_sentiment_score": "0.141044",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.616283",
+        "ticker_sentiment_score": "0.129060",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-22 22:06:18",
+    "source": "WSJ",
+    "summary": "Activist investor Elliott Investment Management has acquired a significant, multibillion-dollar stake in Synopsys, a major chip-design software maker. Elliott intends to engage with Synopsys to encourage the company to enhance its profitability from its software and services. Synopsys's clientele includes prominent companies such as Intel, Alphabet, and Tesla.",
+    "headline": "Exclusive | Activist Elliott Builds Big Stake in Chip-Design Software Maker Synopsys",
+    "ticker_sentiment": [
+      {
+        "ticker": "SNPS",
+        "relevance_score": "0.994474",
+        "ticker_sentiment_score": "0.328294",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "INTC",
+        "relevance_score": "0.621198",
+        "ticker_sentiment_score": "0.138895",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.613830",
+        "ticker_sentiment_score": "0.123720",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.630625",
+        "ticker_sentiment_score": "0.136712",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-22 21:09:20",
+    "source": "AUTO Connected Car News",
+    "summary": "This article covers several key developments in the connected car industry, including Marelli and AWS collaborating on an AI-driven system for software-defined vehicle validation, and Toyota adopting Panasonic's new infotainment system for the 2026 RAV4 to support OTA updates. Additionally, the FTC has issued warnings to 97 auto groups regarding deceptive pricing and mandatory fees, while Tesla aims for an AI6 chip tape-out by December, pivoting to 2nm manufacturing for its future AI hardware.",
+    "headline": "Connected Car News: Marelli, AWS, Toyota, Panasonic, FTC & Tesla",
+    "ticker_sentiment": [
+      {
+        "ticker": "TM",
+        "relevance_score": "0.859909",
+        "ticker_sentiment_score": "0.336156",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.709109",
+        "ticker_sentiment_score": "0.383241",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.918797",
+        "ticker_sentiment_score": "0.255858",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.623478",
+        "ticker_sentiment_score": "0.210809",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.596299",
+        "ticker_sentiment_score": "0.121285",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-22 18:41:42",
+    "source": "TIKR.com",
+    "summary": "General Motors (GM) stock fell 11% in the last 30 days due to cautious investor sentiment regarding slowing EV adoption and increasing competition. Despite these challenges, GM's growing digital business, particularly its OnStar platform, is seen as a key offset, with significant deferred and recognized revenue expected by 2026. A valuation model suggests GM is modestly undervalued with a target price of $85, driven by potential margin recovery, digital revenue growth, and improved EV economics.",
+    "headline": "GM Fell 11% in the Last 30 Days. Here\u2019s Where the Stock Could Go in 2026",
+    "ticker_sentiment": [
+      {
+        "ticker": "GM",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.289685",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "F",
+        "relevance_score": "0.698856",
+        "ticker_sentiment_score": "-0.221331",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.612405",
+        "ticker_sentiment_score": "-0.216024",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "CEG",
+        "relevance_score": "0.556697",
+        "ticker_sentiment_score": "0.321279",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "PWR",
+        "relevance_score": "0.586321",
+        "ticker_sentiment_score": "0.363394",
+        "ticker_sentiment_label": "Bullish"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1560 @@
+[
+  {
+    "time_published": "2026-03-26 08:07:47",
+    "source": "EQS News",
+    "summary": "Rockwell Automation will showcase its autonomous industrial operations at Hannover Messe 2026, focusing on how manufacturers can accelerate their journey from automation to autonomy using industrial AI, embedded intelligence, and secure architectures. The company will demonstrate practical applications, AI-enabled smart machines, and self-adjusting systems aimed at boosting productivity and improving quality. Rockwell's presentation will highlight its production-ready approach to industrial AI, supporting digital transformation and real-time optimization.",
+    "headline": "Rockwell Automation Showcases Autonomous Industrial Operations at Hannover Messe 2026 | Corporate",
+    "ticker_sentiment": [
+      {
+        "ticker": "ROK",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.432360",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.635439",
+        "ticker_sentiment_score": "0.274552",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.619939",
+        "ticker_sentiment_score": "0.226789",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GE",
+        "relevance_score": "0.558164",
+        "ticker_sentiment_score": "0.159639",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "IBM",
+        "relevance_score": "0.567576",
+        "ticker_sentiment_score": "0.186984",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 08:00:54",
+    "source": "Zacks Investment Research",
+    "summary": "Zacks Equity Research highlights Amazon.com, TJX Companies, Eaton Corp. plc, Blue Ridge Bankshares, Inc., and Security Federal Corp. in its latest Analyst Blog. The article provides research reports for these companies, discussing their recent performance, competitive advantages, and potential challenges. Key factors like AI integration for Amazon, the resilient off-price model for TJX, and strong demand for Eaton are detailed, while Blue Ridge and Security Federal's market positions are also analyzed.",
+    "headline": "The Zacks Analyst Blog Highlights Amazon.com, TJX Companies, Eaton, Blue Ridge and Security Federal",
+    "ticker_sentiment": [
+      {
+        "ticker": "TJX",
+        "relevance_score": "0.936265",
+        "ticker_sentiment_score": "0.400690",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.877652",
+        "ticker_sentiment_score": "0.290777",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "ETN",
+        "relevance_score": "0.714426",
+        "ticker_sentiment_score": "0.392280",
+        "ticker_sentiment_label": "Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 07:10:04",
+    "source": "AD HOC NEWS",
+    "summary": "Etsy Inc. is facing significant pressure in early 2026 due to declining gross merchandise sales, increased competition from Amazon and Temu, and a broader e-commerce slowdown caused by macroeconomic factors. The company reported flat GMS for Q1 2026 and a dip in active buyers, prompting analysts to reassess its growth prospects. Etsy is strategizing to combat these challenges through AI-driven personalization, the integration of its Depop acquisition, and upgrades to seller tools, while US investors monitor its performance closely ahead of upcoming Q1 earnings.",
+    "headline": "Etsy Inc. stock faces renewed pressure amid e-commerce slowdown and macroeconomic headwinds in Q1 2026",
+    "ticker_sentiment": [
+      {
+        "ticker": "ETSY",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.402906",
+        "ticker_sentiment_label": "Bearish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.602193",
+        "ticker_sentiment_score": "-0.343587",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "EBAY",
+        "relevance_score": "0.628670",
+        "ticker_sentiment_score": "-0.210986",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 05:25:06",
+    "source": "AD HOC NEWS",
+    "summary": "Netflix Inc. stock rose 1.3% on NASDAQ, reaching 92.11 USD, following an upgrade by Erste Group to 'buy' and optimistic analyst sentiment. The stock's momentum is driven by sustained subscriber growth, a push into live sports, and content innovation, positioning Netflix as a strong performer in the competitive streaming market. Despite being 45.58% below its 52-week peak, the company's focus on profitability and strategic diversification makes it an attractive option for US investors, though risks like market competition and potential content fatigue remain.",
+    "headline": "Netflix Inc. stock gains momentum on NASDAQ amid analyst upgrade and streaming growth signals",
+    "ticker_sentiment": [
+      {
+        "ticker": "NFLX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.504997",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "DIS",
+        "relevance_score": "0.566898",
+        "ticker_sentiment_score": "0.124602",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.540462",
+        "ticker_sentiment_score": "0.122503",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AAPL",
+        "relevance_score": "0.512169",
+        "ticker_sentiment_score": "0.143269",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 03:10:04",
+    "source": "AD HOC NEWS",
+    "summary": "Etsy Inc. is facing renewed pressure in 2026 due to an e-commerce slowdown, macroeconomic headwinds impacting consumer spending on discretionary items, and increased competition. Despite a recent slight uptick in stock price, the company's growth momentum in the online handmade goods market is declining, reflected in persistent challenges in user engagement and monetization. US investors are closely watching Etsy's ability to maintain its niche and profitability amidst these market shifts.",
+    "headline": "Etsy Inc. stock faces renewed pressure amid e-commerce slowdown and macroeconomic headwinds in 2026",
+    "ticker_sentiment": [
+      {
+        "ticker": "ETSY",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.255279",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.610456",
+        "ticker_sentiment_score": "-0.141635",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 02:08:32",
+    "source": "Morningstar",
+    "summary": "Ulta Beauty maintains a narrow economic moat through its strong brand, extensive product selection, and robust loyalty program with over 46 million active members. The company has successfully grown to over 1,200 stores and achieved annual revenues exceeding $12 billion, effectively competing against both mall-based retailers and e-commerce giants like Amazon. Ulta's strategy leverages in-store product sampling, salons, and promotions to encourage frequent customer visits and maintain market share.",
+    "headline": "Ulta Beauty Counters Rivals With Advantages in Product Depth, Stores, and Customer Loyalty",
+    "ticker_sentiment": [
+      {
+        "ticker": "ULTA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.239826",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.611509",
+        "ticker_sentiment_score": "0.123838",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 00:29:06",
+    "source": "AD HOC NEWS",
+    "summary": "Netflix Inc. shares rose 1.3% to $92.11 on NASDAQ on March 25, 2026, signaling resilience after recent lows. The Q1 earnings report scheduled for April 16 is a key catalyst for investors, who are closely watching the company's subscriber base growth and competition in a volatile streaming sector. The rebound suggests market optimism about Netflix's strategy, including its foray into live sports and ad-supported tiers, despite challenges like increased competition and cybersecurity risks.",
+    "headline": "Netflix Inc. stock rebounds with 1.3% gain on NASDAQ amid streaming sector volatility",
+    "ticker_sentiment": [
+      {
+        "ticker": "NFLX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.432364",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "CMCSA",
+        "relevance_score": "0.600364",
+        "ticker_sentiment_score": "0.142940",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "DIS",
+        "relevance_score": "0.596070",
+        "ticker_sentiment_score": "0.147483",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.576388",
+        "ticker_sentiment_score": "0.163864",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.536539",
+        "ticker_sentiment_score": "0.146991",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 23:39:18",
+    "source": "Bitget",
+    "summary": "SkyWater Technology (SKYT) shares experienced a 1.23% decline recently, despite broader market gains, although they have risen 3.84% over the past month. The company is poised to release its next earnings report with an anticipated EPS of -$0.08 and revenue of $147 million, showing significant year-over-year growth. However, analyst consensus estimates for the full fiscal year suggest a loss per share of $0.26 and total revenue of $605 million, leading to a Zacks Rank of #5 (Strong Sell).",
+    "headline": "SkyWater Technology, Inc. (SKYT) Shares Decline Despite Market Upswing: Key Information to Consider Prior to Trading",
+    "ticker_sentiment": [
+      {
+        "ticker": "SKYT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.420857",
+        "ticker_sentiment_label": "Bearish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.612131",
+        "ticker_sentiment_score": "0.202949",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOG",
+        "relevance_score": "0.618040",
+        "ticker_sentiment_score": "0.225099",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.632509",
+        "ticker_sentiment_score": "0.235137",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.627153",
+        "ticker_sentiment_score": "0.242494",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 23:14:02",
+    "source": "The Globe and Mail",
+    "summary": "Zacks Investment Research has released new reports on 16 major stocks, highlighting Amazon.com, TJX Companies, and Eaton Corp. Key insights include Amazon's outperformance driven by diversification and AI, TJX's success with its off-price model despite rising costs, and Eaton's growth fueled by AI data centers and strategic acquisitions. The reports also cover micro-cap stocks Blue Ridge Bankshares and Security Federal Corp., along with other prominent companies like Goldman Sachs and Medtronic.",
+    "headline": "Top Stock Reports for Amazon.com, TJX and Eaton Corp.",
+    "ticker_sentiment": [
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.918561",
+        "ticker_sentiment_score": "0.392713",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "TJX",
+        "relevance_score": "0.830930",
+        "ticker_sentiment_score": "0.320702",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "ETN",
+        "relevance_score": "0.739518",
+        "ticker_sentiment_score": "0.330834",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "BR",
+        "relevance_score": "0.635566",
+        "ticker_sentiment_score": "0.229260",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "DELL",
+        "relevance_score": "0.628451",
+        "ticker_sentiment_score": "0.395504",
+        "ticker_sentiment_label": "Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 22:32:13",
+    "source": "AD HOC NEWS",
+    "summary": "UnitedHealth Group Incorporated stock dropped 1.6% to 267.79 USD on the NYSE, contributing to Dow Jones weakness amidst broader sector rotation. Investors are anticipating Q1 earnings on April 21, with analysts forecasting 17.85 USD EPS for 2026. The decline is seen as tactical adjustment rather than fundamental deterioration, with the company remaining a defensive play for US investors.",
+    "headline": "UnitedHealth Group Incorporated stock slips 1.6% to 267.79 USD on NYSE amid sector rotation pressure",
+    "ticker_sentiment": [
+      {
+        "ticker": "UNH",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.290718",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "CVS",
+        "relevance_score": "0.610217",
+        "ticker_sentiment_score": "-0.114284",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.579269",
+        "ticker_sentiment_score": "-0.100754",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 22:08:30",
+    "source": "AD HOC NEWS",
+    "summary": "Walmart Inc. stock has shown stability, trading around 122 USD on Nasdaq, despite significant CEO changes across the consumer goods sector and intensifying competition in delivery services. The company's resilience is attributed to its strong core US operations, which are projected to drive substantial sales growth in fiscal 2026, and its defensive positioning as a stable investment. US investors are advised to monitor Walmart for its domestic market dominance, consistent dividends, and low volatility in a turbulent economic landscape.",
+    "headline": "Walmart Inc. stock rises amid CEO churn in consumer goods and steady US retail growth as of March 20",
+    "ticker_sentiment": [
+      {
+        "ticker": "WMT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.441061",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "FDX",
+        "relevance_score": "0.606669",
+        "ticker_sentiment_score": "-0.107316",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.642984",
+        "ticker_sentiment_score": "0.324442",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 22:07:08",
+    "source": "The Globe and Mail",
+    "summary": "Zacks Investment Research has released new reports featuring 16 major stocks, including Amazon.com (AMZN), The TJX Companies, Inc. (TJX), and Eaton Corp. plc (ETN). The reports analyze each company's performance, strengths, and challenges, such as Amazon's AI integration benefits versus infrastructure costs, TJX's strong off-price model despite rising costs, and Eaton's demand from AI-driven data centers while facing global risks. Also covered are micro-cap stocks Blue Ridge Bankshares (BRBS) and Security Federal Corp. (SFDL), along with other significant companies like Goldman Sachs, Medtronic, and Dell Technologies.",
+    "headline": "Top Stock Reports for Amazon.com, TJX and Eaton Corp.",
+    "ticker_sentiment": [
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.987175",
+        "ticker_sentiment_score": "0.344885",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TJX",
+        "relevance_score": "0.889050",
+        "ticker_sentiment_score": "0.326093",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "ETN",
+        "relevance_score": "0.811432",
+        "ticker_sentiment_score": "0.319638",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 21:01:00",
+    "source": "Insider Monkey",
+    "summary": "Corcept Therapeutics Inc. (NASDAQ:CORT) shares climbed by 19.7% after its ovarian cancer treatment, Lifyorli, received FDA approval. The approval was based on a successful clinical trial that showed a significant reduction in death risk and disease progression for patients with platinum-resistant ovarian cancer treated with Lifyorli in combination with nab-paclitaxel. This marks a significant development for the company and its oncology pipeline.",
+    "headline": "Corcept Therapeutics (CORT) Climbs 19.7% as Lifyorli Gets FDA OK",
+    "ticker_sentiment": [
+      {
+        "ticker": "CORT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.712735",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.644686",
+        "ticker_sentiment_score": "0.113299",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "ORCL",
+        "relevance_score": "0.608764",
+        "ticker_sentiment_score": "0.118102",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.624370",
+        "ticker_sentiment_score": "0.132592",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.620105",
+        "ticker_sentiment_score": "0.125262",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 20:37:03",
+    "source": "TradingView",
+    "summary": "This article compiles various trading ideas and analyses for Amazon.com, Inc. (AMZN) from multiple traders on TradingView. The ideas span both long and short positions, highlighting bullish momentum due to strong earnings and cloud service expansion, as well as warning about potential bearish shifts based on technical indicators like MACD and moving averages. Several analyses point to key price levels and targets, offering diverse perspectives on AMZN's short-term and long-term prospects.",
+    "headline": "Amazon.com, Inc. Trade Ideas \u2014 LS:906866",
+    "ticker_sentiment": [
+      {
+        "ticker": "AMZN",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.519094",
+        "ticker_sentiment_label": "Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 20:18:21",
+    "source": "Simply Wall Street",
+    "summary": "JD.com's Q4 2025 results showed revenue matching expectations, but increased spending on new ventures like food delivery impacted profitability, leading to a cautious sentiment among investors. Despite a significant one-year TTM decline and a five-year shareholder return decline, Simply Wall St assesses JD.com as 66.8% undervalued with a fair value of $82.68 against its current trading price of $27.47, contingent on successful execution of its new strategies. The analysis suggests that the market might be mispricing the e-commerce giant, but acknowledges execution risk associated with its investments.",
+    "headline": "A Look At JD.com (NasdaqGS:JD) Valuation After Q4 2025 Results And Reinvestment In New Ventures",
+    "ticker_sentiment": [
+      {
+        "ticker": "JD",
+        "relevance_score": "0.345108",
+        "ticker_sentiment_score": "0.025938",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "INTU",
+        "relevance_score": "0.623490",
+        "ticker_sentiment_score": "0.113511",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.649181",
+        "ticker_sentiment_score": "0.116940",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 20:13:00",
+    "source": "Insider Monkey",
+    "summary": "DA Davidson has reaffirmed its Buy rating on Axos Financial, Inc. (AX) with a price target of $112, citing the company's internet-based banking model, diverse business lines, and cost advantages due to its branchless structure. The research firm highlighted Axos Financial's nimble operations, ability to offer competitive deposit rates, and proactive management as key factors supporting its long-term outlook. The article also touches on the broader AI investment landscape, suggesting that while Axos is a good investment, other AI stocks may offer higher short-term returns.",
+    "headline": "DA Davidson Reiterates Buy Rating on Axos Financial (AX)",
+    "ticker_sentiment": [
+      {
+        "ticker": "AX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.444420",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.614537",
+        "ticker_sentiment_score": "0.122843",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "ORCL",
+        "relevance_score": "0.649240",
+        "ticker_sentiment_score": "0.223971",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.635790",
+        "ticker_sentiment_score": "0.235708",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.601612",
+        "ticker_sentiment_score": "0.322915",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 20:09:22",
+    "source": "Stock Titan",
+    "summary": "Innovative Eyewear (NASDAQ: LUCY) reported net losses of $7.5 million for 2025 and $7.8 million for 2024, with an accumulated deficit of $32.3 million as of December 31, 2025. The company's 10-K filing detailed risks including intense competition, reliance on Chinese manufacturing amid shifting tariffs, potential Nasdaq delisting, and significant licensing payments totaling $13.57 million over eight years for its co-branded collections. Despite these challenges, Innovative Eyewear saw revenue increase by 63% in 2025, driven by its Lucyd Armor product line and expanded distribution efforts across e-commerce and retail channels.",
+    "headline": "Smart-glasses maker Innovative Eyewear (NASDAQ: LUCY) details losses, tariffs and big license fees",
+    "ticker_sentiment": [
+      {
+        "ticker": "LUCY",
+        "relevance_score": "0.991761",
+        "ticker_sentiment_score": "-0.473782",
+        "ticker_sentiment_label": "Bearish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.622784",
+        "ticker_sentiment_score": "0.036589",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.581160",
+        "ticker_sentiment_score": "-0.037048",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.565341",
+        "ticker_sentiment_score": "-0.065339",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "META",
+        "relevance_score": "0.567379",
+        "ticker_sentiment_score": "-0.052764",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 20:05:27",
+    "source": "Stock Titan",
+    "summary": "Health In Tech (NASDAQ: HIT) reported strong financial results for full-year 2025, with a 71% year-over-year revenue increase to $33.3 million and an 81% rise in Adjusted EBITDA to $4.1 million. The company projects 2026 revenue to be between $45 million and $50 million, reflecting continued growth in its AI-enabled InsurTech platform. Despite the positive full-year results, the stock saw a 13.83% decline following the announcement, attributed partly to a net loss and lower Adjusted EBITDA in Q4 2025.",
+    "headline": "Health In Tech targets up to $50M in 2026 after 71% revenue jump",
+    "ticker_sentiment": [
+      {
+        "ticker": "HIT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.308151",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.627605",
+        "ticker_sentiment_score": "0.324143",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 19:10:06",
+    "source": "www.mexc.co",
+    "summary": "This article provides current stock information for CTS Corporation (CTS), including its live price, key market data, and recent performance metrics. It details how to buy CTS stock on MEXC, offers an overview of the company, and answers frequently asked questions about its financials and market classification. The article also lists other US stocks and top cryptocurrencies for broader market context.",
+    "headline": "CTS Price Today: CTS Corporation Stock Price, Quote & Chart",
+    "ticker_sentiment": [
+      {
+        "ticker": "CTS",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.137003",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.638738",
+        "ticker_sentiment_score": "0.129566",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 19:05:00",
+    "source": "Insider Monkey",
+    "summary": "Hewlett Packard Enterprise (HPE) is identified as a top undervalued stock under $50, having recently announced the HPE AI Grid and an expansion of its NVIDIA AI Computing portfolio. These initiatives aim to provide end-to-end solutions for distributed inference clusters and advanced integrated systems for AI. The article highlights HPE's global edge-to-cloud presence and segments its operations, while also promoting a separate AI stock opportunity with higher purported upside potential.",
+    "headline": "Why Is Hewlett Packard Enterprise (HPE) One of the Best Undervalued Stocks Under $50 to Invest In Now?",
+    "ticker_sentiment": [
+      {
+        "ticker": "HPE",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.463241",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.824646",
+        "ticker_sentiment_score": "0.341291",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.610819",
+        "ticker_sentiment_score": "0.316246",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.643830",
+        "ticker_sentiment_score": "0.301862",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.610693",
+        "ticker_sentiment_score": "0.334374",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 19:04:30",
+    "source": "Built In",
+    "summary": "The retail industry is diverse, encompassing mass merchandise leaders, apparel brands, and athletic powerhouses that operate thousands of locations with large workforces and complex supply chains. These companies offer various career paths requiring both soft skills and technical expertise. This article highlights some of the largest retailers demonstrating the massive scale of global operations.",
+    "headline": "10 Top Retail Companies to Know",
+    "ticker_sentiment": [
+      {
+        "ticker": "TJX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.448243",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "NKE",
+        "relevance_score": "0.803158",
+        "ticker_sentiment_score": "0.415526",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "TGT",
+        "relevance_score": "0.823682",
+        "ticker_sentiment_score": "0.418132",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.739709",
+        "ticker_sentiment_score": "0.436288",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "COST",
+        "relevance_score": "0.730473",
+        "ticker_sentiment_score": "0.410850",
+        "ticker_sentiment_label": "Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 18:39:37",
+    "source": "Digital Journal",
+    "summary": "Safe Pro Group (NASDAQ: SPAI) has appointed Brian Mack, a former Anduril director and retired U.S. Army acquisition officer, to its Strategic Advisory Board. Mack brings significant expertise in defense acquisition and Army modernization to the company. This appointment supports Safe Pro Group's growth in AI-enabled defense solutions, especially following a recent $1 million government award and successful deployment of its SPOTD AI platform in military operations.",
+    "headline": "Safe Pro Group (NASDAQ: SPAI) Appoints Defense Acquisition Expert Brian Mack to Strategic Advisory Board",
+    "ticker_sentiment": [
+      {
+        "ticker": "SPAI",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.472655",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.641983",
+        "ticker_sentiment_score": "0.145651",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 18:37:20",
+    "source": "BGR",
+    "summary": "Costco is offering several significant tech deals that are more advantageous than those found in Amazon's Big Spring Sale 2026, which runs from March 25-31. These Costco deals often include lower prices, extended warranties, bundle inclusions, or better return policies. Notable products with superior Costco offers include a Dell 16-inch touchscreen laptop, a Sony 65-inch Bravia 5 Mini LED Smart TV, Enbrighten Outdoor Wi-Fi Eternity Lights, a Ring Home Kit, and Insta360 X5 and Ace Pro 2 cameras.",
+    "headline": "5 Costco Deals Better Than Amazon's Big Spring Sale 2026",
+    "ticker_sentiment": [
+      {
+        "ticker": "COST",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.403842",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.916140",
+        "ticker_sentiment_score": "0.147717",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "DELL",
+        "relevance_score": "0.606297",
+        "ticker_sentiment_score": "0.325207",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 18:07:12",
+    "source": "BNN Bloomberg",
+    "summary": "Brendan Caldwell, president and CEO of Caldwell Investment Management, reviews his previous stock selections, including Cboe Global Markets, Amazon.com, and Costco. He discusses their current market performance. The article also provides a timestamp for several related videos featuring other analysts' market outlooks and stock picks.",
+    "headline": "Brendan Caldwell's Past Picks: Cboe Global Markets, Amazon.com & Costco",
+    "ticker_sentiment": [
+      {
+        "ticker": "CBOE",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.113343",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.716991",
+        "ticker_sentiment_score": "0.133217",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "COST",
+        "relevance_score": "0.723743",
+        "ticker_sentiment_score": "0.141183",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.604847",
+        "ticker_sentiment_score": "0.133189",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.635309",
+        "ticker_sentiment_score": "0.104875",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 17:09:18",
+    "source": "Stock Titan",
+    "summary": "The Toronto-Dominion Bank is offering Callable Contingent Interest Barrier Notes linked to the performance of Apple Inc. (AAPL) and Amazon.com, Inc. (AMZN) common stocks. These notes offer a 9.00% annual contingent interest, payable monthly only if both reference assets close at or above 50% of their initial value. TD has the option to call the notes monthly, and at maturity, investors face potential loss of principal if either underlying asset falls below its 50% barrier.",
+    "headline": "TD (TD) sells callable 9% contingent-interest notes linked to AAPL and AMZN",
+    "ticker_sentiment": [
+      {
+        "ticker": "TD",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.107925",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AAPL",
+        "relevance_score": "0.915280",
+        "ticker_sentiment_score": "0.106196",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.907857",
+        "ticker_sentiment_score": "0.119555",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 16:38:43",
+    "source": "WDBJ7",
+    "summary": "FedEx is launching a new same-day delivery service for retailers to better compete with the expedited shipping options offered by Amazon and Walmart. This service will include a two-hour delivery option and an end-of-day delivery choice. FedEx has partnered with OneRail to handle the quick deliveries, allowing retailers flexibility in managing the associated shipping costs.",
+    "headline": "FedEx launches same-day delivery options to compete with Amazon, Walmart",
+    "ticker_sentiment": [
+      {
+        "ticker": "WMT",
+        "relevance_score": "0.723428",
+        "ticker_sentiment_score": "-0.233658",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "FDX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.324018",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.801887",
+        "ticker_sentiment_score": "-0.201093",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "DASH",
+        "relevance_score": "0.618912",
+        "ticker_sentiment_score": "0.132509",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 16:38:41",
+    "source": "WAFB",
+    "summary": "FedEx has introduced new same-day delivery services for retailers, offering two-hour and end-of-day options to help them compete with Amazon and Walmart's fast shipping. This initiative allows retailers to control how they apply delivery costs, either by making it visible to customers or integrating it into product pricing. FedEx has partnered with OneRail to manage these rapid deliveries.",
+    "headline": "FedEx launches same-day delivery options to compete with Amazon, Walmart",
+    "ticker_sentiment": [
+      {
+        "ticker": "WMT",
+        "relevance_score": "0.747657",
+        "ticker_sentiment_score": "-0.202107",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "FDX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.405515",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.844829",
+        "ticker_sentiment_score": "-0.295677",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 16:38:40",
+    "source": "WSMV",
+    "summary": "FedEx has announced a new same-day delivery service for retailers, offering two-hour and end-of-day options to help them compete with Amazon and Walmart's fast shipping. This service, partnered with OneRail, allows retailers to manage the additional shipping costs as they see fit. The move comes as Amazon continues to expand its own rapid delivery services, highlighting the increasing competition in the fast delivery market.",
+    "headline": "FedEx launches same-day delivery options to compete with Amazon, Walmart",
+    "ticker_sentiment": [
+      {
+        "ticker": "WMT",
+        "relevance_score": "0.987759",
+        "ticker_sentiment_score": "0.286319",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "FDX",
+        "relevance_score": "0.902605",
+        "ticker_sentiment_score": "0.237292",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.854224",
+        "ticker_sentiment_score": "0.127824",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 16:38:05",
+    "source": "TradingView",
+    "summary": "Netflix (NFLX) shares are considered overvalued based on a forward price/sales (P/S) ratio of 7.3X, significantly higher than the sector average. Despite this, the company has demonstrated strong financial discipline, outperforming peers, generating robust cash flow, and enhancing its ad business with AI integration. However, slowing revenue growth and a front-loaded content spending strategy are causes for concern, leading to a Zacks Rank #3 (Hold) recommendation.",
+    "headline": "Is Netflix Stock's 7.3X PS Still Worth it? Buy, Sell, or Hold?",
+    "ticker_sentiment": [
+      {
+        "ticker": "NFLX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.092699",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.638741",
+        "ticker_sentiment_score": "0.130996",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "DIS",
+        "relevance_score": "0.620332",
+        "ticker_sentiment_score": "0.116220",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "PSKY",
+        "relevance_score": "0.592331",
+        "ticker_sentiment_score": "0.105426",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 16:08:30",
+    "source": "KPLC 7 News",
+    "summary": "FedEx is launching a new same-day delivery service to help retailers compete with Amazon and Walmart's fast shipping options. The service includes two-hour and end-of-day delivery choices, giving retailers flexibility in how they manage the shipping costs. FedEx has partnered with OneRail to conduct these expedited deliveries.",
+    "headline": "FedEx launches same-day delivery options to compete with Amazon, Walmart",
+    "ticker_sentiment": [
+      {
+        "ticker": "WMT",
+        "relevance_score": "0.996873",
+        "ticker_sentiment_score": "0.102349",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.868945",
+        "ticker_sentiment_score": "0.123489",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "FDX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.510285",
+        "ticker_sentiment_label": "Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 15:44:00",
+    "source": "Insider Monkey",
+    "summary": "Despite concerns about membership growth and valuation, analysts are largely bullish on Costco Wholesale (COST), with 60% of covering analysts providing a positive sentiment and a consensus price target suggesting a 13% upside. Truist analyst Scot Ciccarelli raised Costco's price target to $977, maintaining a \"Hold\" rating, acknowledging strong performance but highlighting membership growth as a potential headwind. The company reported consistent Q2 2026 results with a 9.10% year-over-year increase in GAAP net sales to $68.24 billion.",
+    "headline": "Analysts Bullish on Costco Wholesale (COST) Despite Increasing Concerns Regarding Membership Growth Trends and Valuation",
+    "ticker_sentiment": [
+      {
+        "ticker": "COST",
+        "relevance_score": "0.964550",
+        "ticker_sentiment_score": "0.201022",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "JPM",
+        "relevance_score": "0.557762",
+        "ticker_sentiment_score": "0.303399",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.529707",
+        "ticker_sentiment_score": "0.244827",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.558883",
+        "ticker_sentiment_score": "0.214502",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 15:37:12",
+    "source": "Insider Monkey",
+    "summary": "BofA has raised its price target on Bunge Global SA (BG) to $130 from $125, maintaining a Buy rating. This positive adjustment follows the company's Investor Day, where higher-than-expected mid-cycle EPS and an increased synergy target were announced. BMO Capital also lifted its price target for BG to $135 from $130, reiterating an Outperform rating.",
+    "headline": "BofA Lifts PT on Bunge Global SA (BG) to $130 From $125 \u2013 Here\u2019s Why",
+    "ticker_sentiment": [
+      {
+        "ticker": "BG",
+        "relevance_score": "0.997918",
+        "ticker_sentiment_score": "0.465385",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.694849",
+        "ticker_sentiment_score": "0.220209",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.644514",
+        "ticker_sentiment_score": "0.215512",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.630626",
+        "ticker_sentiment_score": "0.233208",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.648149",
+        "ticker_sentiment_score": "0.205139",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 15:33:00",
+    "source": "Insider Monkey",
+    "summary": "H.C. Wainwright has maintained a \"Buy\" rating on Altimmune (ALT) and raised its price target to $25 from $12, citing optimism around the company's MASH program and pipeline expansion. Altimmune's strategic focus on treatments for metabolic and liver diseases, particularly its pemvidutide for NASH and obesity, is highlighted as a key driver. Analysts from B. Riley also maintain a \"Buy\" rating, noting the drug's differentiation in Phase 3 trials and upcoming Phase 2 data.",
+    "headline": "H.C. Wainwright Bullish on Altimmune (ALT) Amid Growing Focus on Treatments for Metabolic and Liver Diseases",
+    "ticker_sentiment": [
+      {
+        "ticker": "ALT",
+        "relevance_score": "0.986854",
+        "ticker_sentiment_score": "0.455588",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.687234",
+        "ticker_sentiment_score": "0.125065",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.647092",
+        "ticker_sentiment_score": "0.128979",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.588195",
+        "ticker_sentiment_score": "0.118778",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 15:18:03",
+    "source": "Benzinga",
+    "summary": "Billionaire investors Warren Buffett and Bill Ackman took opposing stances on Amazon.com (NASDAQ:AMZN) stock in the fourth quarter of 2025, with Buffett significantly trimming his stake and Ackman increasing his. While Ackman's additional Amazon shares have since dropped, Buffett's timely sale appears to have saved his investors from further losses as Magnificent Seven stocks have struggled year-to-date in 2026. This article details their differing investment decisions on Amazon and other major tech companies like Alphabet (NASDAQ:GOOGL) and Meta Platforms (NASDAQ:META).",
+    "headline": "Buffett Vs. Ackman: One Dumped Amazon Stock, The Other Bought More \u2014 Here's Who Came Out Ahead",
+    "ticker_sentiment": [
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.993791",
+        "ticker_sentiment_score": "-0.318028",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "META",
+        "relevance_score": "0.728527",
+        "ticker_sentiment_score": "0.141069",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AAPL",
+        "relevance_score": "0.682021",
+        "ticker_sentiment_score": "-0.201003",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.624420",
+        "ticker_sentiment_score": "-0.148819",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 15:10:30",
+    "source": "AD HOC NEWS",
+    "summary": "Target Corp (TGT) is facing significant pressure in 2026 due to shifting consumer spending patterns, inventory adjustments, and intense competition from e-commerce giants. The retailer is experiencing softer traffic and increased reliance on promotions, impacting gross margins. Investors are closely monitoring Target's ability to navigate these challenges by balancing inventory, pricing strategies, and digital sales growth while adapting to budget-conscious shoppers in a high-interest-rate environment.",
+    "headline": "Target Corp stock faces pressure amid shifting retail dynamics and economic headwinds in 2026",
+    "ticker_sentiment": [
+      {
+        "ticker": "TGT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.212574",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "WMT",
+        "relevance_score": "0.716238",
+        "ticker_sentiment_score": "0.046853",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.680073",
+        "ticker_sentiment_score": "0.040356",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "DG",
+        "relevance_score": "0.582812",
+        "ticker_sentiment_score": "0.053684",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "DLTR",
+        "relevance_score": "0.536320",
+        "ticker_sentiment_score": "0.056045",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 15:08:36",
+    "source": "Bitget",
+    "summary": "Coherent (COHR) and PagSeguro Digital Ltd. (PAGS) are highlighted as strong performers in the Business Services sector in 2024. Coherent's shares have surged 47.6% while the sector generally declined, and analysts have raised its full-year earnings projections. PagSeguro Digital also posted positive results, with its stock up 3.3% year-to-date and an increase in consensus earnings per share estimates.",
+    "headline": "Are Business Services Shares Underperforming COHERENT CORP (COHR) in 2024?",
+    "ticker_sentiment": [
+      {
+        "ticker": "COHR",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.672885",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.563805",
+        "ticker_sentiment_score": "0.101320",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOG",
+        "relevance_score": "0.598225",
+        "ticker_sentiment_score": "0.112865",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.573172",
+        "ticker_sentiment_score": "0.127862",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 14:44:00",
+    "source": "Insider Monkey",
+    "summary": "SFL Corporation Ltd. recently secured a drilling agreement in Canada for its Hercules rig, valued at $170 million, starting in Q1 2027. The company also reported strong Q4 2025 preliminary results with $176 million in operating sales and an adjusted EBITDA of $109 million, alongside its 88th consecutive quarterly dividend payout. Analysts consider SFL one of the top shipping stocks, although the article also promotes an AI stock with high upside potential.",
+    "headline": "Is SFL Corporation Ltd. (SFL) Among the Best Shipping Stocks to Buy According to Analysts?",
+    "ticker_sentiment": [
+      {
+        "ticker": "SFL",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.431808",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.615231",
+        "ticker_sentiment_score": "0.286143",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.570580",
+        "ticker_sentiment_score": "0.222514",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "META",
+        "relevance_score": "0.594665",
+        "ticker_sentiment_score": "0.212410",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.594734",
+        "ticker_sentiment_score": "0.246267",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 14:39:42",
+    "source": "FinancialContent",
+    "summary": "Applied Optoelectronics, Inc. (AAOI), once near collapse, has transformed into a critical player in AI infrastructure, driven by its ultra-high-speed optical transceivers for data centers. The company's strategic pivot to Linear Pluggable Optics (LPO) and vertical integration has led to significant revenue growth and stock performance in 2025-2026, though it faces risks like customer concentration and equity dilution. AAOI's future hinges on its ability to leverage its technical leadership in 1.6T transceivers and its new U.S. manufacturing facility.",
+    "headline": "The AI Optical Renaissance: A Deep Dive into Applied Optoelectronics (AAOI) in 2026",
+    "ticker_sentiment": [
+      {
+        "ticker": "AAOI",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.445692",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.709665",
+        "ticker_sentiment_score": "0.322715",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.633754",
+        "ticker_sentiment_score": "0.232725",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 14:39:17",
+    "source": "Insider Monkey",
+    "summary": "Barclays has reduced its price target on Kanzhun Limited (NASDAQ:BZ) to $19 from $28, but maintained an Overweight rating due to stronger-than-expected Q4 results. The Q1 guidance was below expectations, attributed to Chinese New Year seasonality. Kanzhun Limited reported substantial growth in paying enterprise customers and revenue for Q4 and the full year 2025.",
+    "headline": "Barclays Cuts PT on Kanzhun Limited (BZ) to $19 From $28 \u2013 Here\u2019s Why",
+    "ticker_sentiment": [
+      {
+        "ticker": "BZ",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.145524",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.636470",
+        "ticker_sentiment_score": "0.335900",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 14:10:16",
+    "source": "Bitget",
+    "summary": "Innovative Solutions and Support, Inc. (ISSC) is highlighted as a strong option for \"trend\" investors due to its significant recent price strength, including a 38.8% climb over 12 weeks and a 9% rise in the last four weeks. The company also boasts strong fundamentals, including a Zacks Rank #1 (Strong Buy) and an Average Broker Recommendation of #1 (Strong Buy), indicating likely continued upward momentum. The article emphasizes the importance of combining strong fundamentals and upward earnings revisions with price momentum for successful trend investing.",
+    "headline": "Innovative Solutions and Support (ISSC) Is an Excellent Option for 'Trend' Investors\u2014Here\u2019s the Reason",
+    "ticker_sentiment": [
+      {
+        "ticker": "ISSC",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.497296",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.640303",
+        "ticker_sentiment_score": "0.218396",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOG",
+        "relevance_score": "0.575261",
+        "ticker_sentiment_score": "0.206433",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.568229",
+        "ticker_sentiment_score": "0.232199",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "ORCL",
+        "relevance_score": "0.559753",
+        "ticker_sentiment_score": "0.222242",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 14:07:32",
+    "source": "TradingView",
+    "summary": "This article compares Ford and Stellantis, two major automakers, examining factors that make one stock more appealing than the other. Ford demonstrates steady revenue growth, a strong hybrid and truck lineup, and high-margin opportunities through Ford Pro and energy solutions, alongside an attractive dividend yield. Stellantis, however, faces rising debt, significant capital expenditures, and potential cash flow pressures worsened by tariff impacts and a suspended dividend.",
+    "headline": "Ford vs. Stellantis: Which Automaker Stock Has the Edge Now?",
+    "ticker_sentiment": [
+      {
+        "ticker": "F",
+        "relevance_score": "0.956995",
+        "ticker_sentiment_score": "0.321050",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.603000",
+        "ticker_sentiment_score": "0.170309",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOG",
+        "relevance_score": "0.581040",
+        "ticker_sentiment_score": "0.186878",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.565352",
+        "ticker_sentiment_score": "0.152139",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 13:45:04",
+    "source": "\u5bcc\u9014\u725b\u725b",
+    "summary": "The Dow Jones Industrial Average rallied nearly 450 points, driven by significant gains in Amazon.com Inc. and NVIDIA Corp. shares. Unity Software (U.US) also reported strong fourth-quarter financial results, with revenue increasing 35% year-over-year to $609 million, exceeding consensus estimates.",
+    "headline": "Dow Rallies Nearly 450 Points On Gains For Amazon.Com Inc., NVIDIA Corp. Shares",
+    "ticker_sentiment": [
+      {
+        "ticker": "AMZN",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.421512",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.422172",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "GS",
+        "relevance_score": "0.743984",
+        "ticker_sentiment_score": "0.332427",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "IBM",
+        "relevance_score": "0.613989",
+        "ticker_sentiment_score": "0.238183",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "JPM",
+        "relevance_score": "0.623190",
+        "ticker_sentiment_score": "0.326741",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 13:45:04",
+    "source": "MSN",
+    "summary": "The Dow Jones Industrial Average rallied almost 450 points, driven by significant gains in Amazon.com Inc. and NVIDIA Corp. shares. This performance indicates a bullish day for the market, with key tech and e-commerce stocks contributing substantially to the index's rise.",
+    "headline": "Dow rallies nearly 450 points on gains for Amazon.com Inc., NVIDIA Corp. shares",
+    "ticker_sentiment": [
+      {
+        "ticker": "AMZN",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.400591",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.442134",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "DOW",
+        "relevance_score": "0.617048",
+        "ticker_sentiment_score": "0.306559",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 13:39:53",
+    "source": "Business Wire",
+    "summary": "Comcast Advertising has unveiled Outcomes+, a new targeting and attribution solution for traditional and streaming TV, featuring AI-powered products and expanded partnerships. This solution provides advertisers with enhanced capabilities for audience targeting and campaign measurement, supported by Comcast's deterministic data and new collaborations with companies like Amazon Ads, Mastercard, and S&P Global Mobility. Outcomes+ aims to simplify performance measurement across all screens and content, including Prime Video access for local and SMB advertisers.",
+    "headline": "Comcast Advertising Launches Outcomes+, a Next Gen Targeting and Attribution Solution Across Traditional and Streaming TV",
+    "ticker_sentiment": [
+      {
+        "ticker": "CMCSV",
+        "relevance_score": "0.318063",
+        "ticker_sentiment_score": "0.018882",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "CMCSA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.454627",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.743013",
+        "ticker_sentiment_score": "0.327293",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MA",
+        "relevance_score": "0.625866",
+        "ticker_sentiment_score": "0.277562",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "SPGI",
+        "relevance_score": "0.623136",
+        "ticker_sentiment_score": "0.285930",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 13:39:24",
+    "source": "Insider Monkey",
+    "summary": "Jim Cramer expressed strong optimism for Five Below (NASDAQ: FIVE), noting its exceptional performance despite market concerns and praising the new CEO, Winnie Park, for transforming the company. Cramer believes that under Park's leadership, Five Below has successfully expanded its target demographic and capitalized on new trends, leading to impressive financial results and significant stock growth. He concludes that the stock still has \"more room to run\" due to effective management.",
+    "headline": "Jim Cramer on Five Below: \u201cI Think It\u2019s Staying Strong\u201d",
+    "ticker_sentiment": [
+      {
+        "ticker": "FIVE",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.715097",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.645930",
+        "ticker_sentiment_score": "0.334636",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.634231",
+        "ticker_sentiment_score": "0.305306",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.632020",
+        "ticker_sentiment_score": "0.305154",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.608885",
+        "ticker_sentiment_score": "0.325227",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 13:38:58",
+    "source": "Stock Titan",
+    "summary": "Comcast Advertising has launched Outcomes+, a new AI-powered targeting and attribution solution for advertisers across traditional and streaming TV. This solution leverages Comcast's extensive first-party data and new partnerships, including one with Amazon Ads, to provide local and small-to-medium sized businesses with access to Prime Video's 200 million ad-supported audience for the first time. Outcomes+ aims to enhance campaign performance measurement and optimization, addressing shortcomings in traditional TV advertising attribution.",
+    "headline": "Comcast opens Prime Video 200MM ad audience to small businesses",
+    "ticker_sentiment": [
+      {
+        "ticker": "CCZ",
+        "relevance_score": "0.334899",
+        "ticker_sentiment_score": "0.035449",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "CMCSA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.475127",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.717631",
+        "ticker_sentiment_score": "0.331964",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.629084",
+        "ticker_sentiment_score": "0.240075",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "WBD",
+        "relevance_score": "0.555732",
+        "ticker_sentiment_score": "0.225151",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 13:37:56",
+    "source": "Insider Monkey",
+    "summary": "Jim Cramer expressed puzzlement over the recent decline in Jacobs Solutions (NYSE:J) stock, given its strong quarterly performance and significant data center exposure. He noted the company's consistent \"beat and raise\" quarters and believes the stock is undervalued, especially after a previous analyst's assessment that he found incorrect. Cramer reiterated his positive stance on J, suggesting he would buy it at $132, while Insider Monkey suggests that some AI stocks hold even greater promise.",
+    "headline": "Jim Cramer Says the Pullback in Jacobs Solutions Makes No Sense to Him",
+    "ticker_sentiment": [
+      {
+        "ticker": "J",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.459004",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.734999",
+        "ticker_sentiment_score": "0.332993",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.731025",
+        "ticker_sentiment_score": "0.328739",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.604750",
+        "ticker_sentiment_score": "0.263205",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "ORCL",
+        "relevance_score": "0.583217",
+        "ticker_sentiment_score": "0.240355",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 13:08:31",
+    "source": "Insider Monkey",
+    "summary": "Jim Cramer highlighted Ulta Beauty (NASDAQ: ULTA) for its resilient consumer spending, despite a recent earnings miss that caused its stock to tumble. He noted that even with higher-than-expected costs impacting earnings, the company is seeing strong sales in high-end merchandise, indicating consumers are still willing to spend on premium products. Cramer views the current stock price as very good following its significant dip from February highs.",
+    "headline": "Jim Cramer Highlights Ulta Beauty For Its Strong High End Sales Despite A Recent Earnings Miss",
+    "ticker_sentiment": [
+      {
+        "ticker": "ULTA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.218890",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "EL",
+        "relevance_score": "0.630739",
+        "ticker_sentiment_score": "0.101981",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.649042",
+        "ticker_sentiment_score": "0.115148",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.601234",
+        "ticker_sentiment_score": "0.341069",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 12:37:14",
+    "source": "MarketBeat",
+    "summary": "Rep. Jonathan L. Jackson (D-Illinois) recently purchased Citigroup (NYSE: C) stock valued between $1,001 and $15,000 on February 4, 2026, as disclosed in a March 12 filing. The acquisition occurred in his \"MORGAN STANLEY IRA\" account. Citigroup recently exceeded quarterly EPS estimates, offers a 2.1% dividend yield, and analysts maintain a \"Moderate Buy\" rating with a target price of $127.25.",
+    "headline": "Rep. Jonathan L. Jackson Buys Citigroup Inc. (NYSE:C) Stock",
+    "ticker_sentiment": [
+      {
+        "ticker": "C",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.264390",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "BK",
+        "relevance_score": "0.701192",
+        "ticker_sentiment_score": "0.131969",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "IBM",
+        "relevance_score": "0.611934",
+        "ticker_sentiment_score": "-0.249963",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.615128",
+        "ticker_sentiment_score": "0.091049",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "WELL",
+        "relevance_score": "0.585459",
+        "ticker_sentiment_score": "0.114348",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 11:09:56",
+    "source": "openPR.com",
+    "summary": "The global E-Commerce Buy Now Pay Later (BNPL) market is projected to reach $120 billion by 2032, growing at a CAGR of 16.60% from 2025, driven by increasing online shopping and consumer demand for flexible payment options. Key players include Affirm Holdings, Klarna Bank AB, Afterpay (Block Inc.), PayPal Holdings, and Zip Co Limited. Despite rapid growth and opportunities in emerging markets, the industry faces challenges such as regulatory concerns, consumer debt risk, and high default rates.",
+    "headline": "E-Commerce Buy Now Pay Later Market is Booming Worldwide | Major Giants Perpay Inc, Razorpay, Sezzle Inc",
+    "ticker_sentiment": [
+      {
+        "ticker": "SEZL",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.424935",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "XYZ",
+        "relevance_score": "0.733112",
+        "ticker_sentiment_score": "0.303717",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "PYPL",
+        "relevance_score": "0.713597",
+        "ticker_sentiment_score": "0.328010",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AAPL",
+        "relevance_score": "0.601981",
+        "ticker_sentiment_score": "0.317105",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.637755",
+        "ticker_sentiment_score": "0.330448",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+import os
+
+FMP_API_KEY = os.getenv("FMP_API_KEY")
+ALPHA_VANTAGE_API_KEY = os.getenv("ALPHA_VANTAGE_API_KEY")
+TWELVE_DATA_API_KEY = os.getenv("TWELVE_DATA_API_KEY")
+SYMBOL = "AMZN"

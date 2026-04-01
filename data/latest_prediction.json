@@ -1,0 +1,81 @@
+{
+  "timestamp": "2026-04-01T12:07:52.218160",
+  "symbol": "AMZN",
+  "features": {
+    "price_change_pct": -13.63833290009531,
+    "volatility": 0.01975713841480643,
+    "avg_volume": 50572823.5,
+    "ma_5": 207.19400000000002,
+    "ma_10": 208.69099999999997,
+    "trend_signal": 0,
+    "ma_20": 210.5335,
+    "momentum_5": -6.030000000000001,
+    "volatility_5": 0.027317570893590618,
+    "price_vs_ma_10": -0.044807873842187596,
+    "rsi_14": 35.66943487948146,
+    "macd": -2.671244607799622,
+    "bollinger_width": 0.08294937031811907,
+    "atr_14": 5.178571428571424,
+    "volume_spike_ratio": 1.2384958826421544,
+    "market_return_5": -0.004347959214917662,
+    "relative_strength_5": -0.025013680751971374,
+    "avg_sentiment": 0.18211427647905665,
+    "market_cap": 2235761969595.0,
+    "pe_ratio": 28.715893266383418,
+    "eps": 7.252778037165001
+  },
+  "ml_prediction": {
+    "recommendation": "HOLD / WATCH",
+    "predicted_return_pct": -0.2057,
+    "confidence_pct": 55.41,
+    "model_used": "LinearRegression",
+    "reasons": [
+      "Predicted 5-day return: -0.21%.",
+      "The predicted return is too small to justify a strong action."
+    ],
+    "probabilities": {
+      "BUY": 0.0,
+      "NOT_BUY": 0.0021
+    }
+  },
+  "lstm_prediction": {
+    "recommendation": "HOLD / WATCH",
+    "predicted_return_pct": -0.3656,
+    "confidence_pct": 55.73,
+    "model_used": "LSTMRegressor",
+    "reasons": [
+      "Predicted 5-day return: -0.37%.",
+      "The sequence model does not detect a strong enough edge."
+    ],
+    "probabilities": {
+      "BUY": 0.0,
+      "NOT_BUY": 0.0037
+    }
+  },
+  "classifier_prediction": {
+    "recommendation": "NOT BUY",
+    "confidence_pct": 55.0,
+    "model_used": "Pipeline",
+    "reasons": [
+      "The binary classifier does not see enough upside above the risk-adjusted threshold."
+    ],
+    "probabilities": {}
+  },
+  "rule_based_prediction": {
+    "recommendation": "HOLD / WATCH",
+    "confidence_pct": 55.0,
+    "model_used": "rule_based",
+    "reasons": [
+      "The stock has shown negative price movement over the last 14 trading days.",
+      "The short-term moving average is not above the long-term moving average, indicating weak momentum.",
+      "Recent news sentiment is positive.",
+      "The P/E ratio is within a generally acceptable range.",
+      "The company has positive earnings per share.",
+      "The stock volatility is within a moderate range."
+    ],
+    "probabilities": {
+      "BUY": 0.5,
+      "NOT_BUY": 0.5
+    }
+  }
+}

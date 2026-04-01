@@ -1,0 +1,1434 @@
+[
+  {
+    "time_published": "2026-03-26 09:59:59",
+    "source": "MarketBeat",
+    "summary": "Pacifica Partners Inc. reduced its stake in Alphabet Inc. (NASDAQ:GOOG) by 7.2% in the fourth quarter, selling 4,048 shares, though Alphabet remains its largest holding. Despite recent insider selling, Alphabet reported strong Q4 earnings, surpassing analyst estimates, and announced a quarterly dividend. The company holds a \"Buy\" consensus rating from analysts with an average target price of $345.71.",
+    "headline": "Pacifica Partners Inc. Sells 4,048 Shares of Alphabet Inc. $GOOG",
+    "ticker_sentiment": [
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.027579",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOG",
+        "relevance_score": "0.912076",
+        "ticker_sentiment_score": "0.023072",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.639624",
+        "ticker_sentiment_score": "0.146979",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "META",
+        "relevance_score": "0.613513",
+        "ticker_sentiment_score": "-0.336066",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 09:59:59",
+    "source": "MarketBeat",
+    "summary": "Threadgill Financial LLC significantly reduced its stake in Alphabet Inc. (NASDAQ:GOOG) by 34.7% in the fourth quarter, selling 6,583 shares and now holding 12,377 shares valued at $3.88 million. Despite this, other major institutional investors like State Street Corp and JPMorgan Chase & Co. increased their holdings in Alphabet. The article also provides a consensus \"Buy\" rating for Alphabet from analysts with an average price target of $345.71, along with details on recent earnings, dividends, and insider selling activities.",
+    "headline": "Alphabet Inc. $GOOG Shares Sold by Threadgill Financial LLC",
+    "ticker_sentiment": [
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.959803",
+        "ticker_sentiment_score": "0.095936",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOG",
+        "relevance_score": "0.949166",
+        "ticker_sentiment_score": "0.044268",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "META",
+        "relevance_score": "0.617163",
+        "ticker_sentiment_score": "0.110879",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.554712",
+        "ticker_sentiment_score": "0.233676",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 09:53:32",
+    "source": "MarketBeat",
+    "summary": "New England Research & Management Inc. significantly increased its holdings in Microsoft Corporation, making it their third-largest holding. Several other institutional investors also adjusted their positions in Microsoft. The article also provides financial details, recent earnings, dividend announcements, insider trading activity, and analyst ratings, noting both positive and negative sentiment drivers for the stock.",
+    "headline": "Microsoft Corporation $MSFT Position Raised by New England Research & Management Inc.",
+    "ticker_sentiment": [
+      {
+        "ticker": "MSFT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.116263",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.648053",
+        "ticker_sentiment_score": "0.341698",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 09:45:17",
+    "source": "Inc.com",
+    "summary": "Walmart's initial AI-powered shopping experience with ChatGPT saw significantly lower conversion rates than its traditional website, with customers finding it \"unsatisfying.\" Despite this, Walmart is not abandoning AI shopping; it is integrating its own AI assistant, \"Sparky,\" into ChatGPT interactions and also partnering with Google's Gemini. The company views these early results as part of an iterative learning process for the nascent AI shopping industry, aiming to provide a seamless and consistent Walmart experience wherever customers begin their shopping journey.",
+    "headline": "The Reason Walmart\u2019s ChatGPT Experience Flopped, and What It Means for AI Shopping",
+    "ticker_sentiment": [
+      {
+        "ticker": "WMT",
+        "relevance_score": "0.960634",
+        "ticker_sentiment_score": "0.050829",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.647551",
+        "ticker_sentiment_score": "0.103697",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.599266",
+        "ticker_sentiment_score": "-0.073433",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 09:33:20",
+    "source": "MarketBeat",
+    "summary": "Harbor Investment Advisory LLC has increased its stake in Microsoft (MSFT) by 3.3% in the fourth quarter, making it their third-largest holding. Microsoft reported strong Q4 earnings and revenue, exceeding estimates, and holds a significant market capitalization. However, market sentiment is mixed with positive catalysts like an AI partnership with Nvidia and a Buy reinitiation from BofA, offset by concerns including reports of a challenging quarter and analyst price target reductions.",
+    "headline": "Microsoft Corporation $MSFT is Harbor Investment Advisory LLC's 3rd Largest Position",
+    "ticker_sentiment": [
+      {
+        "ticker": "MSFT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.097540",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.630855",
+        "ticker_sentiment_score": "0.307441",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.568652",
+        "ticker_sentiment_score": "-0.114111",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 09:30:38",
+    "source": "The Globe and Mail",
+    "summary": "Oracle, a long-standing database company, made a pivotal decision in 2019 to embrace a multicloud strategy by interconnecting with Microsoft Azure, and subsequently expanding to AWS and Google Cloud. This move allows clients to utilize Oracle's database services across various cloud providers, catering to existing demand and integrating with AI platforms. The multicloud approach has significantly boosted Oracle's database revenue and positions the company for explosive growth amidst the surging demand for AI technologies.",
+    "headline": "This Decision in 2019 Was Oracle's Smartest Move -- and It May Be the Ticket to Explosive AI Growth.",
+    "ticker_sentiment": [
+      {
+        "ticker": "ORCL",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.475177",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.746503",
+        "ticker_sentiment_score": "0.295622",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.743509",
+        "ticker_sentiment_score": "0.244563",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.649545",
+        "ticker_sentiment_score": "0.174631",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "INTC",
+        "relevance_score": "0.589117",
+        "ticker_sentiment_score": "0.131577",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 09:18:02",
+    "source": "MarketBeat",
+    "summary": "JPMorgan Chase & Co. significantly increased its stake in Buckle, Inc. (NYSE:BKE) by 376.3% during the third quarter, now holding 288,920 shares valued at $16.95 million. This move comes as institutional investors collectively own 53.93% of the company's stock, while insiders have recently sold shares totaling approximately $3.99 million. Buckle reported strong Q1 earnings, beating estimates with $1.59 EPS and $399.1M in revenue, and declared a quarterly dividend of $0.35.",
+    "headline": "JPMorgan Chase & Co. Has $16.95 Million Stake in Buckle, Inc. (The) $BKE",
+    "ticker_sentiment": [
+      {
+        "ticker": "JPM",
+        "relevance_score": "0.936763",
+        "ticker_sentiment_score": "0.325939",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.617004",
+        "ticker_sentiment_score": "0.312737",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "SMCI",
+        "relevance_score": "0.610750",
+        "ticker_sentiment_score": "0.342031",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 08:55:25",
+    "source": "MarketBeat",
+    "summary": "The Czech National Bank increased its stake in The Walt Disney Company by 3.1% in Q4 2025, now holding 470,754 shares valued at $53.56 million. Multiple institutional investors also adjusted their holdings. While Disney surpassed Q4 earnings expectations with $1.63 EPS and $25.98 billion in revenue, the company faces strategic risks due to the collapse of its AI tie-up with OpenAI and uncertainty surrounding a $1.5 billion investment in Epic Games.",
+    "headline": "Czech National Bank Boosts Stock Holdings in The Walt Disney Company $DIS",
+    "ticker_sentiment": [
+      {
+        "ticker": "DIS",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.114817",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NFLX",
+        "relevance_score": "0.567027",
+        "ticker_sentiment_score": "0.028675",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.543984",
+        "ticker_sentiment_score": "0.285977",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 08:55:17",
+    "source": "MarketBeat",
+    "summary": "First Bank & Trust significantly increased its stake in Netflix, Inc. (NASDAQ:NFLX) by 925.9% in the 4th quarter, acquiring an additional 19,889 shares to own a total of 22,037 shares valued at $2,066,000. This comes as other institutional investors also adjusted their holdings, with hedge funds and institutions collectively owning 80.93% of the company's stock. Analysts have set an average \"Moderate Buy\" rating for Netflix with a consensus target price of $114.35, reflecting mostly positive sentiment despite some valuation concerns.",
+    "headline": "First Bank & Trust Purchases 19,889 Shares of Netflix, Inc. $NFLX",
+    "ticker_sentiment": [
+      {
+        "ticker": "NFLX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.326665",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "WBD",
+        "relevance_score": "0.640954",
+        "ticker_sentiment_score": "0.009314",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.590609",
+        "ticker_sentiment_score": "0.220735",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 08:21:13",
+    "source": "MarketBeat",
+    "summary": "DAVENPORT & Co LLC significantly reduced its stake in Oracle Corporation by over 60% in Q4, now holding 135,175 shares valued at $26.35 million. While Oracle faces recent price target trims from some analysts and potential legal issues, it continues to push AI and cloud initiatives, receiving a buy reinstatement from BofA. Institutional investors collectively own 42.44% of Oracle's stock, and the company has a \"Moderate Buy\" consensus rating with a target price of $262.91.",
+    "headline": "DAVENPORT & Co LLC Has $26.35 Million Position in Oracle Corporation $ORCL",
+    "ticker_sentiment": [
+      {
+        "ticker": "ORCL",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.025431",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.661032",
+        "ticker_sentiment_score": "-0.299291",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "AVGO",
+        "relevance_score": "0.550984",
+        "ticker_sentiment_score": "-0.145323",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 08:07:47",
+    "source": "EQS News",
+    "summary": "Rockwell Automation will showcase its autonomous industrial operations at Hannover Messe 2026, focusing on how manufacturers can accelerate their journey from automation to autonomy using industrial AI, embedded intelligence, and secure architectures. The company will demonstrate practical applications, AI-enabled smart machines, and self-adjusting systems aimed at boosting productivity and improving quality. Rockwell's presentation will highlight its production-ready approach to industrial AI, supporting digital transformation and real-time optimization.",
+    "headline": "Rockwell Automation Showcases Autonomous Industrial Operations at Hannover Messe 2026 | Corporate",
+    "ticker_sentiment": [
+      {
+        "ticker": "ROK",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.444250",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.642156",
+        "ticker_sentiment_score": "0.284931",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.610232",
+        "ticker_sentiment_score": "0.238046",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GE",
+        "relevance_score": "0.557185",
+        "ticker_sentiment_score": "0.166690",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "IBM",
+        "relevance_score": "0.560453",
+        "ticker_sentiment_score": "0.160773",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 07:49:06",
+    "source": "MarketBeat",
+    "summary": "CWA Asset Management Group LLC has increased its stake in Microsoft Corporation (NASDAQ:MSFT) by 1.0% in the fourth quarter, making it their third-largest holding. Despite strong quarterly earnings that beat expectations and a declared dividend, analyst sentiment is mixed, with some firms cutting price targets due to concerns about cloud and Copilot monetization and recent negative headlines. Institutional investors own 71.13% of the stock, while recent insider transactions show both purchases and sales.",
+    "headline": "Microsoft Corporation $MSFT Stock Position Increased by CWA Asset Management Group LLC",
+    "ticker_sentiment": [
+      {
+        "ticker": "MSFT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.134640",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 05:24:06",
+    "source": "Simply Wall Street",
+    "summary": "ServiceNow's recent integration with Vonage Contact Center embeds enterprise-grade voice and real-time AI into its Customer Service Management and IT Service Management workflows, enhancing incident automation and reducing manual agent effort. This development solidifies ServiceNow's position as an AI workflow hub by feeding structured voice data into its AI Platform. While this strengthens ServiceNow's AI-focused investment narrative, the article notes that investors should also consider the competitive landscape and other partnerships like with Cohesity, which focuses on AI agent resilience.",
+    "headline": "Is ServiceNow (NOW) Quietly Turning Into an AI Voice Workflow Powerhouse with Vonage Integration?",
+    "ticker_sentiment": [
+      {
+        "ticker": "NOW",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.348366",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "ORCL",
+        "relevance_score": "0.629083",
+        "ticker_sentiment_score": "0.148211",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.612614",
+        "ticker_sentiment_score": "0.148798",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "CRM",
+        "relevance_score": "0.649074",
+        "ticker_sentiment_score": "0.121065",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 05:11:10",
+    "source": "Bloomberg.com",
+    "summary": "ING Groep NV warns that companies face \"materially more expensive\" funding due to the concentrated exposure of private credit to the software sector and renewed inflation pressures from the Iran war. ING credit strategists predict continued redemption pressure across private credit vehicles, which will slow new financings. This analysis suggests a challenging funding environment for businesses in the near future.",
+    "headline": "ING Says Private Credit, Iran War Risk Fueling Funding Cost Jump",
+    "ticker_sentiment": [
+      {
+        "ticker": "ING",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.297996",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.604362",
+        "ticker_sentiment_score": "-0.223761",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 05:10:40",
+    "source": "MarketBeat",
+    "summary": "Wall Street Zen has downgraded Pinnacle Financial Partners (NYSE:PNFP) from \"hold\" to \"sell,\" despite a broader \"Moderate Buy\" consensus among other analysts and an average price target significantly higher than its current trading price. The company's CFO recently purchased 1,000 shares, and institutional ownership remains high at 87.4%, with major firms increasing their positions. PNFP has a market cap of $6.57 billion and a P/E ratio of 10.00.",
+    "headline": "Wall Street Zen Downgrades Pinnacle Financial Partners (NYSE:PNFP) to Sell",
+    "ticker_sentiment": [
+      {
+        "ticker": "PNFP-P-C",
+        "relevance_score": "0.317456",
+        "ticker_sentiment_score": "0.028934",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.620221",
+        "ticker_sentiment_score": "0.227961",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 04:48:04",
+    "source": "Chosunbiz",
+    "summary": "Microsoft is encouraging South Korea to translate its widespread artificial intelligence adoption into tangible business profits. The tech giant highlights the importance of moving beyond mere AI implementation to realizing measurable financial and operational benefits. This initiative aims to spur Korean businesses to strategically leverage AI for greater economic impact.",
+    "headline": "Microsoft urges Korea to turn AI adoption into measurable business gains - CHOSUNBIZ",
+    "ticker_sentiment": [
+      {
+        "ticker": "MSFT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.329894",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 02:28:04",
+    "source": "Microsoft Source",
+    "summary": "Microsoft held its AI Tour Seoul event, revealing a \"Frontier Success Framework\" to accelerate Korea's Frontier Transformation by expanding access to intelligence and enabling measurable business outcomes through agent-based AI solutions. The company also announced updates to Copilot, including Wave 3 of Microsoft 365 Copilot with personalized agent experiences, and the new Microsoft 365 E7 (Frontier Suite) enterprise plan for secure intelligent agent use. Microsoft is also heavily invested in AI skilling initiatives in Korea, having helped approximately 2 million people learn about AI in 2025 through collaborations with public and private sector partners.",
+    "headline": "Microsoft Positions Korea as a Global AI Hub, Moving Beyond Experimentation to Full Scale Frontier Transformation",
+    "ticker_sentiment": [
+      {
+        "ticker": "MSFT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.417188",
+        "ticker_sentiment_label": "Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 01:58:05",
+    "source": "AD HOC NEWS",
+    "summary": "NetApp Inc. stock climbed 1.14% on Nasdaq, reaching 105.50 USD, driven by an upcoming ex-dividend date of April 2, 2026, and significant institutional interest. Investors are focused on NetApp's critical role in the expanding AI infrastructure market, with the company's hybrid cloud strategy and strong dividend yield making it an attractive play for US investors balancing growth and income. Pension funds and other institutional players are increasing their holdings, validating NetApp's position in providing scalable storage solutions for AI and cloud environments.",
+    "headline": "NetApp Inc. stock rises amid dividend anticipation and institutional buying as AI storage demand surges",
+    "ticker_sentiment": [
+      {
+        "ticker": "NTAP",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.499891",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.610706",
+        "ticker_sentiment_score": "0.348709",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.649939",
+        "ticker_sentiment_score": "0.315672",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.593377",
+        "ticker_sentiment_score": "0.257451",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOG",
+        "relevance_score": "0.566019",
+        "ticker_sentiment_score": "0.291685",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 01:39:10",
+    "source": "Bitget",
+    "summary": "Atmus Filtration Technologies Inc. (ATMU) is significantly outperforming its peers in the Auto-Tires-Trucks sector this year, with a 14.2% return compared to the sector's average decline of 10.9%. The company holds a strong Zacks Rank #2 (Buy) and analysts have raised full-year earnings estimates by 4.9%. Another strong performer mentioned is LCI Industries (LCII), also with a Zacks Rank #2 (Buy).",
+    "headline": "Is Atmus Filtration Technologies Inc. (ATMU) Surpassing Other Stocks in the Auto-Tires-Trucks Sector This Year?",
+    "ticker_sentiment": [
+      {
+        "ticker": "ATMU",
+        "relevance_score": "0.988078",
+        "ticker_sentiment_score": "0.450702",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "TSLA",
+        "relevance_score": "0.583888",
+        "ticker_sentiment_score": "0.124638",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.595069",
+        "ticker_sentiment_score": "0.118952",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOG",
+        "relevance_score": "0.594449",
+        "ticker_sentiment_score": "0.110520",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-26 00:15:45",
+    "source": "AD HOC NEWS",
+    "summary": "Jabil Inc. shares surged over 7% on the NYSE following impressive Q2 fiscal 2026 earnings, significantly beating analyst expectations. The stronger-than-anticipated results were driven by robust demand for AI hardware and cloud components, particularly from hyperscalers, positioning Jabil as a key player in the tech supply chain. The company's diversified manufacturing services and strategic focus on US-centric partnerships are highlighted as crucial factors in its continued growth and resilience amidst geopolitical considerations.",
+    "headline": "Jabil Inc. stock surges on Q2 fiscal 2026 earnings beat driven by AI and cloud demand",
+    "ticker_sentiment": [
+      {
+        "ticker": "JBL",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.484942",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMD",
+        "relevance_score": "0.641275",
+        "ticker_sentiment_score": "0.309868",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MU",
+        "relevance_score": "0.603911",
+        "ticker_sentiment_score": "0.316313",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.640556",
+        "ticker_sentiment_score": "0.333783",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.554356",
+        "ticker_sentiment_score": "0.321557",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 23:39:18",
+    "source": "Bitget",
+    "summary": "SkyWater Technology (SKYT) shares experienced a 1.23% decline recently, despite broader market gains, although they have risen 3.84% over the past month. The company is poised to release its next earnings report with an anticipated EPS of -$0.08 and revenue of $147 million, showing significant year-over-year growth. However, analyst consensus estimates for the full fiscal year suggest a loss per share of $0.26 and total revenue of $605 million, leading to a Zacks Rank of #5 (Strong Sell).",
+    "headline": "SkyWater Technology, Inc. (SKYT) Shares Decline Despite Market Upswing: Key Information to Consider Prior to Trading",
+    "ticker_sentiment": [
+      {
+        "ticker": "SKYT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.398973",
+        "ticker_sentiment_label": "Bearish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.613286",
+        "ticker_sentiment_score": "0.232873",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOG",
+        "relevance_score": "0.613465",
+        "ticker_sentiment_score": "0.235786",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.641444",
+        "ticker_sentiment_score": "0.232401",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.643103",
+        "ticker_sentiment_score": "0.216151",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 23:09:41",
+    "source": "AD HOC NEWS",
+    "summary": "Vodafone Group plc is undergoing significant strategic changes with a major network upgrade in Germany to support AI-ready broadband and the completion of its Fastweb merger in Italy, creating a dominant telecom entity. These moves aim to consolidate Vodafone's position in core European markets, enhance network capabilities for next-generation services, and appeal to US investors seeking high dividend yields and diversification in international telecom. The company is focusing on sustainable growth, operational efficiency, and leveraging partnerships to navigate competitive pressures and drive digital transformation in Europe.",
+    "headline": "Vodafone Group plc stock in focus as Germany network upgrade and Italy merger reshape telecom strate",
+    "ticker_sentiment": [
+      {
+        "ticker": "VOD",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.431253",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.608748",
+        "ticker_sentiment_score": "0.208917",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 23:09:21",
+    "source": "MarketBeat",
+    "summary": "Destiny Tech100 (NYSE:DXYZ) saw its shares jump 15.5% on Wednesday, with a significant surge in trading volume. The stock is currently trading above its 50-day and 200-day moving averages, indicating a positive trend. Institutional interest in DXYZ is also on the rise, with several funds recently acquiring or increasing their positions.",
+    "headline": "Destiny Tech100 (NYSE:DXYZ) Trading Up 15.5% - What's Next?",
+    "ticker_sentiment": [
+      {
+        "ticker": "DXYZ",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.499635",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.610490",
+        "ticker_sentiment_score": "0.145811",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "SMCI",
+        "relevance_score": "0.624331",
+        "ticker_sentiment_score": "0.104059",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMAT",
+        "relevance_score": "0.563755",
+        "ticker_sentiment_score": "0.104356",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.583566",
+        "ticker_sentiment_score": "0.145387",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 22:39:00",
+    "source": "AD HOC NEWS",
+    "summary": "ServiceNow Inc. (NYSE: NOW) has experienced a significant stock plunge, down 31.65% year-to-date, due to a broader SaaS sector sell-off. Despite this downturn, the company's strong financial performance in FY2025, new AI integration with Vonage, and bullish analyst ratings suggest a high potential for rebound, especially for US investors. The stock's current valuation offers a compelling entry point into a leader in enterprise workflow automation, backed by robust fundamentals and AI catalysts.",
+    "headline": "ServiceNow Inc. stock plunges amid SaaS sell-off but AI partnerships signal rebound potential for US",
+    "ticker_sentiment": [
+      {
+        "ticker": "NOW",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.297328",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.613969",
+        "ticker_sentiment_score": "0.114515",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 22:06:59",
+    "source": "TradingView",
+    "summary": "Apple (AAPL) has overtaken Nvidia (NVDA) as the most searched stock on Zacks.com, despite a slight dip in its recent EPS revision estimates. The article details Apple's strong growth prospects, its B-grade VGM Style Score, and its favorable industry ranking (top 28% for Computer-Micro Computers), while Zacks Investment Research gives AAPL a \"Hold\" rating. Investors are keenly watching for potential upward revisions in Apple's revenue and EPS following the announcement of its new \"Apple Business\" platform.",
+    "headline": "Apple Surpasses Nvidia as the Most Popular Stock on Zacks.com: Time to Buy AAPL?",
+    "ticker_sentiment": [
+      {
+        "ticker": "AAPL",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.272218",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.863884",
+        "ticker_sentiment_score": "0.047040",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "DELL",
+        "relevance_score": "0.627696",
+        "ticker_sentiment_score": "0.131589",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "HPQ",
+        "relevance_score": "0.636800",
+        "ticker_sentiment_score": "0.125861",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.568838",
+        "ticker_sentiment_score": "0.124729",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 22:01:21",
+    "source": "EE Times",
+    "summary": "Synopsys is championing \"agentic engineering\" to significantly accelerate chip design through AI-driven simulation and generative design, aiming to reduce development cycles from years to months. While AI leads to substantial productivity gains, particularly in simulation and design iteration, these advancements come with high compute costs and a need for rigorous verification in highly automated systems. Despite increased automation, Synopsys emphasizes that AI will augment, not replace, human engineering judgment and accountability.",
+    "headline": "Synopsys Brings Agentic Engineering Into Focus as AI-Driven Design Tests Productivity Limits",
+    "ticker_sentiment": [
+      {
+        "ticker": "SNPS",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.444279",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "CDNS",
+        "relevance_score": "0.643838",
+        "ticker_sentiment_score": "0.142943",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMD",
+        "relevance_score": "0.574886",
+        "ticker_sentiment_score": "0.210362",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.590562",
+        "ticker_sentiment_score": "0.231740",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 21:01:00",
+    "source": "Insider Monkey",
+    "summary": "Corcept Therapeutics Inc. (NASDAQ:CORT) shares climbed by 19.7% after its ovarian cancer treatment, Lifyorli, received FDA approval. The approval was based on a successful clinical trial that showed a significant reduction in death risk and disease progression for patients with platinum-resistant ovarian cancer treated with Lifyorli in combination with nab-paclitaxel. This marks a significant development for the company and its oncology pipeline.",
+    "headline": "Corcept Therapeutics (CORT) Climbs 19.7% as Lifyorli Gets FDA OK",
+    "ticker_sentiment": [
+      {
+        "ticker": "CORT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.749856",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.622734",
+        "ticker_sentiment_score": "0.146462",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "ORCL",
+        "relevance_score": "0.607327",
+        "ticker_sentiment_score": "0.148271",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.644093",
+        "ticker_sentiment_score": "0.135306",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.626609",
+        "ticker_sentiment_score": "0.122764",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 20:39:06",
+    "source": "TechTarget",
+    "summary": "The expansion of cloud and hybrid data centers has increased operational flexibility and efficiency but also created a more complex security landscape. CIOs must adapt to this expanding data center attack surface by securing all IT access points, redefining the data center to include all technological assets, and adopting zero trust networks and identity management strategies. Key strategies include securing necessary investments for advanced security technologies like zero trust networks, CIEM, and IGA, rigorously testing and auditing all systems, and consistently training employees on security policies.",
+    "headline": "How to secure the data center's expanding attack surface",
+    "ticker_sentiment": [
+      {
+        "ticker": "TTGT",
+        "relevance_score": "0.871479",
+        "ticker_sentiment_score": "0.279627",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.621856",
+        "ticker_sentiment_score": "0.337935",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "DELL",
+        "relevance_score": "0.553366",
+        "ticker_sentiment_score": "0.215936",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 20:38:59",
+    "source": "TipRanks",
+    "summary": "Global Self Storage (SELF) reported record annual revenues, same-store revenues, and net operating income for 2025, driven by a 93.0% occupancy rate and long tenant stays. Despite a slight dip in Q4 revenue due to higher operating expenses, the company's full-year FFO and AFFO grew, dividends were fully covered, and strong capital resources position it for strategic growth. Spark, TipRanks' AI Analyst, rates SELF as Neutral due to solid financials offset by uneven net income and declining free cash flow growth.",
+    "headline": "Global Self Storage Reports Record 2025 Results, Reaffirms Dividend",
+    "ticker_sentiment": [
+      {
+        "ticker": "SELF",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.447588",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.526737",
+        "ticker_sentiment_score": "-0.223987",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.553970",
+        "ticker_sentiment_score": "-0.246048",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "F",
+        "relevance_score": "0.514425",
+        "ticker_sentiment_score": "-0.215622",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 20:38:42",
+    "source": "StocksToTrade",
+    "summary": "Arm Holdings plc has seen its stock rise by 16.39% due to its strategic move into AI CPU production for data centers, backed by major industry players like Meta. The company forecasts generating $15 billion annually from its in-house chips business within five years, which has boosted investor confidence despite a high P/E ratio. This shift signifies Arm's ambition to become a dominant force in the AI infrastructure market, challenging established competitors.",
+    "headline": "Arm\u2019s AI CPU Expansion Pushes Market Sentiment Higher",
+    "ticker_sentiment": [
+      {
+        "ticker": "ARM",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.439231",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "META",
+        "relevance_score": "0.874380",
+        "ticker_sentiment_score": "0.326605",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "INTC",
+        "relevance_score": "0.617266",
+        "ticker_sentiment_score": "0.120127",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMD",
+        "relevance_score": "0.648329",
+        "ticker_sentiment_score": "0.112523",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.596850",
+        "ticker_sentiment_score": "0.226610",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 20:38:10",
+    "source": "Benzinga",
+    "summary": "Morgan Stanley, in collaboration with AlphaSense, asserts that AI is not displacing software but rather enhancing its capabilities. Keith Weiss, a Morgan Stanley analyst, explains that while generative AI impacts specific software areas like photography, it primarily acts as an extension, with the potential to add $400 billion to Enterprise Software by 2028. Despite a decline in software multiples due to increased competition from AI labs, business model concerns, and higher costs associated with GPUs, AI is expected to drive significant revenue growth in the software industry.",
+    "headline": "AI Isn't Replacing Software, It's Supercharging It, Says Morgan Stanley",
+    "ticker_sentiment": [
+      {
+        "ticker": "MS",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.138208",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "ADBE",
+        "relevance_score": "0.726893",
+        "ticker_sentiment_score": "0.105157",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.622656",
+        "ticker_sentiment_score": "0.344783",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "CRM",
+        "relevance_score": "0.575958",
+        "ticker_sentiment_score": "0.309481",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 20:13:00",
+    "source": "Insider Monkey",
+    "summary": "DA Davidson has reaffirmed its Buy rating on Axos Financial, Inc. (AX) with a price target of $112, citing the company's internet-based banking model, diverse business lines, and cost advantages due to its branchless structure. The research firm highlighted Axos Financial's nimble operations, ability to offer competitive deposit rates, and proactive management as key factors supporting its long-term outlook. The article also touches on the broader AI investment landscape, suggesting that while Axos is a good investment, other AI stocks may offer higher short-term returns.",
+    "headline": "DA Davidson Reiterates Buy Rating on Axos Financial (AX)",
+    "ticker_sentiment": [
+      {
+        "ticker": "AX",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.445009",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.646585",
+        "ticker_sentiment_score": "0.140946",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "ORCL",
+        "relevance_score": "0.602857",
+        "ticker_sentiment_score": "0.220802",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.642223",
+        "ticker_sentiment_score": "0.219003",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.607826",
+        "ticker_sentiment_score": "0.326956",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 20:09:22",
+    "source": "Stock Titan",
+    "summary": "Innovative Eyewear (NASDAQ: LUCY) reported net losses of $7.5 million for 2025 and $7.8 million for 2024, with an accumulated deficit of $32.3 million as of December 31, 2025. The company's 10-K filing detailed risks including intense competition, reliance on Chinese manufacturing amid shifting tariffs, potential Nasdaq delisting, and significant licensing payments totaling $13.57 million over eight years for its co-branded collections. Despite these challenges, Innovative Eyewear saw revenue increase by 63% in 2025, driven by its Lucyd Armor product line and expanded distribution efforts across e-commerce and retail channels.",
+    "headline": "Smart-glasses maker Innovative Eyewear (NASDAQ: LUCY) details losses, tariffs and big license fees",
+    "ticker_sentiment": [
+      {
+        "ticker": "LUCY",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.443327",
+        "ticker_sentiment_label": "Bearish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.644809",
+        "ticker_sentiment_score": "0.058924",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.573828",
+        "ticker_sentiment_score": "-0.071093",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.581853",
+        "ticker_sentiment_score": "-0.042557",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "META",
+        "relevance_score": "0.576678",
+        "ticker_sentiment_score": "-0.034458",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 19:39:54",
+    "source": "Bitget",
+    "summary": "Alibaba Group's shares surged over 3% following an announcement of an ambitious goal to achieve $100 billion in revenue from its AI and cloud divisions within five years. This strategic pivot aims to transform Alibaba from an e-commerce giant into an AI infrastructure powerhouse, despite short-term profit dips due to heavy investment in data centers and AI models. The market is reacting positively to the long-term vision, with AI-related workloads already showing triple-digit revenue growth in the cloud segment.",
+    "headline": "Alibaba's $100 Billion AI Gamble Ignites a 3.4% Surge: The Cloud Revolution Begins",
+    "ticker_sentiment": [
+      {
+        "ticker": "BABU",
+        "relevance_score": "0.945785",
+        "ticker_sentiment_score": "0.735465",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.643876",
+        "ticker_sentiment_score": "-0.226845",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 19:38:03",
+    "source": "The Business Journals",
+    "summary": "Microsoft is reportedly taking over a planned data center in Abilene, Texas, that was initially intended for the Stargate project by OpenAI and Oracle. This move comes as OpenAI and Oracle appear to be scaling back their original expansion plans in the West Texas city. The article suggests a shift in the data center landscape in Abilene, with Microsoft stepping in.",
+    "headline": "Microsoft to lease Abilene data center as OpenAI, Oracle scale back plans",
+    "ticker_sentiment": [
+      {
+        "ticker": "ORCL",
+        "relevance_score": "0.818428",
+        "ticker_sentiment_score": "-0.226641",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.907176",
+        "ticker_sentiment_score": "0.200713",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "IBM",
+        "relevance_score": "0.620314",
+        "ticker_sentiment_score": "0.115176",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 19:37:50",
+    "source": "TradingKey",
+    "summary": "International Business Machines Corp (IBM) stock fell 3.07% on March 25 due to several contributing factors. These include recent price target cuts by analysts, concerns over AI disrupting IBM's mainframe and consulting businesses, and a broader tech sector sell-off. Despite strategic advancements like the Confluent acquisition and a new AI collaboration, negative sentiment from legal risks and integration challenges appears to be weighing on investor confidence.",
+    "headline": "International Business Machines Corp Stock (IBM) Moved Down by 3.07% on Mar 25: Facts Behind the Movement",
+    "ticker_sentiment": [
+      {
+        "ticker": "IBM",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.473795",
+        "ticker_sentiment_label": "Bearish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.646608",
+        "ticker_sentiment_score": "-0.128241",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.613112",
+        "ticker_sentiment_score": "-0.126567",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "META",
+        "relevance_score": "0.613529",
+        "ticker_sentiment_score": "0.119813",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 19:36:59",
+    "source": "TradingKey",
+    "summary": "Adobe Inc. (ADBE) stock declined by 4.06% on March 25, driven by legal investigations into its subscription practices, regulatory scrutiny in the UK, and uncertainty surrounding CEO Shantanu Narayen's upcoming departure. Despite strong Q1 2026 earnings, analyst downgrades and concerns about competition from AI-native creative tools have overshadowed positive financial results, leading to a bearish sentiment among investors. The stock's technical indicators also suggest a sell signal and an oversold condition.",
+    "headline": "Adobe Inc Stock (ADBE) Moved Down by 4.06% on Mar 25: What Investors Need To Know",
+    "ticker_sentiment": [
+      {
+        "ticker": "ADBE",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.444686",
+        "ticker_sentiment_label": "Bearish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.604852",
+        "ticker_sentiment_score": "0.144107",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.643319",
+        "ticker_sentiment_score": "0.124497",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "META",
+        "relevance_score": "0.631032",
+        "ticker_sentiment_score": "0.101599",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 19:08:13",
+    "source": "Benzinga",
+    "summary": "Microsoft and Nvidia are collaborating to integrate AI and advanced computing into the nuclear energy sector, aiming to streamline reactor design, permitting, construction, and operation. This partnership, leveraging Microsoft's cloud/AI and Nvidia's computing technologies, is expected to make nuclear plant projects more efficient and predictable, potentially transforming the sector's risk profile and boosting nuclear-focused stocks. Several companies in nuclear energy, including advanced reactor firms and uranium suppliers, are identified as potential beneficiaries of this technological advancement.",
+    "headline": "Microsoft, Nvidia Just Fused AI And Atoms \u2014 8 Nuclear Stocks In Focus",
+    "ticker_sentiment": [
+      {
+        "ticker": "NVDA",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.417899",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.994184",
+        "ticker_sentiment_score": "0.414066",
+        "ticker_sentiment_label": "Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 19:05:00",
+    "source": "Insider Monkey",
+    "summary": "Hewlett Packard Enterprise (HPE) is identified as a top undervalued stock under $50, having recently announced the HPE AI Grid and an expansion of its NVIDIA AI Computing portfolio. These initiatives aim to provide end-to-end solutions for distributed inference clusters and advanced integrated systems for AI. The article highlights HPE's global edge-to-cloud presence and segments its operations, while also promoting a separate AI stock opportunity with higher purported upside potential.",
+    "headline": "Why Is Hewlett Packard Enterprise (HPE) One of the Best Undervalued Stocks Under $50 to Invest In Now?",
+    "ticker_sentiment": [
+      {
+        "ticker": "HPE",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.498544",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.835100",
+        "ticker_sentiment_score": "0.336995",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.619077",
+        "ticker_sentiment_score": "0.335689",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.606136",
+        "ticker_sentiment_score": "0.332398",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.630367",
+        "ticker_sentiment_score": "0.340293",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 18:07:12",
+    "source": "BNN Bloomberg",
+    "summary": "Brendan Caldwell, president and CEO of Caldwell Investment Management, reviews his previous stock selections, including Cboe Global Markets, Amazon.com, and Costco. He discusses their current market performance. The article also provides a timestamp for several related videos featuring other analysts' market outlooks and stock picks.",
+    "headline": "Brendan Caldwell's Past Picks: Cboe Global Markets, Amazon.com & Costco",
+    "ticker_sentiment": [
+      {
+        "ticker": "CBOE",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.139535",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.742553",
+        "ticker_sentiment_score": "0.130514",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "COST",
+        "relevance_score": "0.739448",
+        "ticker_sentiment_score": "0.143301",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.630636",
+        "ticker_sentiment_score": "0.142891",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.623901",
+        "ticker_sentiment_score": "0.118105",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 17:40:20",
+    "source": "AD HOC NEWS",
+    "summary": "Cisco Systems, Inc. (ISIN: US17275R1023) emerged as a top performer on the Dow Jones, rising 2.59% to $80.86 as investors rotated into defensive tech stocks. The company's gains are attributed to its robust balance sheet, lower valuation multiples, and significant Webex Meetings AI upgrades, which are driving collaboration revenue and strengthening its position in enterprise hybrid work solutions. These advancements, including real-time translation and enhanced security, are contributing to Cisco's recurring software revenue growth and offering resilience in volatile markets.",
+    "headline": "Cisco Systems, Inc. stock leads Dow Jones gains amid tech rotation and Webex AI upgrades",
+    "ticker_sentiment": [
+      {
+        "ticker": "CSCO",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.433841",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "CRM",
+        "relevance_score": "0.607891",
+        "ticker_sentiment_score": "-0.401422",
+        "ticker_sentiment_label": "Bearish"
+      },
+      {
+        "ticker": "IBM",
+        "relevance_score": "0.624762",
+        "ticker_sentiment_score": "-0.331737",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.637831",
+        "ticker_sentiment_score": "0.340877",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 17:25:41",
+    "source": "Barchart.com",
+    "summary": "Hewlett Packard Enterprise (HPE) stock soared 10% after the company unveiled new security advancements to boost AI adoption and enterprise resilience, including the HPE Juniper Networking SRX400 Series Firewalls. This strategic move, coupled with a $2 billion debt offering and a strong quarterly earnings report that exceeded profit estimates and raised full-year guidance, has instilled investor confidence. Despite recent market volatility tied to Middle Eastern geopolitical events, HPE's year-to-date performance is up 7.2%, nearing its 52-week high.",
+    "headline": "Why Is Hewlett Packard Enterprise (HPE) Stock Soaring Today",
+    "ticker_sentiment": [
+      {
+        "ticker": "HPE",
+        "relevance_score": "0.979232",
+        "ticker_sentiment_score": "0.826941",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.627685",
+        "ticker_sentiment_score": "0.304207",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.551118",
+        "ticker_sentiment_score": "-0.111053",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 17:16:59",
+    "source": "CNBC",
+    "summary": "Microsoft's chief diversity officer, Lindsay-Rae McIntyre, is leaving the company amid a shake-up in its human resources department. The move comes as Microsoft undergoes an \"AI-powered transformation\" and faces pressure in the software market. The company is re-organizing its HR teams to align with its business priorities, including hiring top talent for its AI initiatives.",
+    "headline": "Microsoft's diversity chief is leaving as company continues 'AI-powered transformation'",
+    "ticker_sentiment": [
+      {
+        "ticker": "MSFT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.112353",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 17:10:46",
+    "source": "TradingKey",
+    "summary": "PDD Holdings Inc (PDD) stock increased by 8.83% on March 25, despite a mixed financial report with increased revenue but decreased net income and EPS due to significant strategic investments. The company's robust cash position, global expansion of its Temu platform, and positive analyst ratings highlighting undervaluation contributed to investor confidence. Technical indicators show a sell signal (MACD), neutral RSI, and oversold Williams %R, while fundamental analysis notes its strong industry rankings in revenue and net profit.",
+    "headline": "PDD Holdings Inc Stock (PDD) Moved Up by 8.83% on Mar 25: What Signal Does It Send?",
+    "ticker_sentiment": [
+      {
+        "ticker": "PDD",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.309731",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.646789",
+        "ticker_sentiment_score": "-0.199631",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.561565",
+        "ticker_sentiment_score": "0.112199",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "PLTR",
+        "relevance_score": "0.557988",
+        "ticker_sentiment_score": "0.107475",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 16:48:15",
+    "source": "Bitget",
+    "summary": "Principal Financial Group (PFG) has outperformed the broader insurance multi-line industry over the past year, with a 2.4% stock price increase against the industry's 9.9% drop. The company shows an attractive valuation, strong growth outlook with projected EPS increases, and consistent shareholder returns through dividends and share repurchases. Analysts generally project further upside for PFG shares, indicating its strong market position and capital management.",
+    "headline": "PFG Shares Surpass Industry Performance: What Actions Should Investors Consider Next?",
+    "ticker_sentiment": [
+      {
+        "ticker": "PFG",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.483198",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MET",
+        "relevance_score": "0.729392",
+        "ticker_sentiment_score": "0.089713",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.642169",
+        "ticker_sentiment_score": "0.329726",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 16:40:10",
+    "source": "Developing Telecoms",
+    "summary": "Veon is transitioning from a traditional telecom operator to an \"AI-native\" service provider with its \"AI 1440\" strategy, focusing on integrating augmented intelligence and developing local large language models. The company aims to be relevant to customers every minute of the day by embedding AI across its ecosystem, building on its existing super app strategy, and leveraging its infrastructure. Veon views its operating markets not as challenging but as growth opportunities, particularly for fintech and digital services, and expects its digital ecosystem to continue strong growth.",
+    "headline": "Veon bets on \u201cAI 1440\u201d future as telcos race beyond connectivity",
+    "ticker_sentiment": [
+      {
+        "ticker": "VEON",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.435019",
+        "ticker_sentiment_label": "Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.622682",
+        "ticker_sentiment_score": "0.215738",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 16:39:59",
+    "source": "www.marketscreener.com",
+    "summary": "Faruqi & Faruqi, LLP has reminded Kyndryl Holdings, Inc. (NYSE: KD) investors of the upcoming securities class action deadline on April 13, 2026. This class action concerns investors who purchased Kyndryl securities between August 1, 2024, and February 9, 2026, and suffered losses due to alleged materially false or misleading statements regarding Kyndryl's financial condition and internal controls. The investigation follows Kyndryl's disclosure of a review into cash management practices, expected material weaknesses in internal controls, and the departure of key executives leading to a significant stock price drop.",
+    "headline": "KD INVESTOR DEADLINE APPROACHING: Faruqi & Faruqi, LLP Reminds Kyndryl Investors of Securities Class Action Deadline on April 13, 2026",
+    "ticker_sentiment": [
+      {
+        "ticker": "KD",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.619745",
+        "ticker_sentiment_label": "Bearish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.602348",
+        "ticker_sentiment_score": "0.104068",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 16:37:40",
+    "source": "TradingKey",
+    "summary": "Alphabet Inc Class C (GOOG) stock dropped 3.33% on March 25 due to investor concerns over the company's aggressive AI capital expenditures, a cooling market sentiment towards AI investments, and ongoing regulatory and macroeconomic uncertainties. Technical indicators like MACD suggest a sell signal, while the company maintains strong fundamental rankings in revenue and net profit within the Software & IT Services sector. Analysts currently rate GOOG as a Buy with an average price target of $339.59.",
+    "headline": "Alphabet Inc Class C Stock (GOOG) Moved Down by 3.33% on Mar 25: Key Drivers Unveiled",
+    "ticker_sentiment": [
+      {
+        "ticker": "GOOGL",
+        "relevance_score": "0.710175",
+        "ticker_sentiment_score": "0.013305",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "GOOG",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "-0.404346",
+        "ticker_sentiment_label": "Bearish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.609704",
+        "ticker_sentiment_score": "-0.235148",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 15:44:00",
+    "source": "Insider Monkey",
+    "summary": "Despite concerns about membership growth and valuation, analysts are largely bullish on Costco Wholesale (COST), with 60% of covering analysts providing a positive sentiment and a consensus price target suggesting a 13% upside. Truist analyst Scot Ciccarelli raised Costco's price target to $977, maintaining a \"Hold\" rating, acknowledging strong performance but highlighting membership growth as a potential headwind. The company reported consistent Q2 2026 results with a 9.10% year-over-year increase in GAAP net sales to $68.24 billion.",
+    "headline": "Analysts Bullish on Costco Wholesale (COST) Despite Increasing Concerns Regarding Membership Growth Trends and Valuation",
+    "ticker_sentiment": [
+      {
+        "ticker": "COST",
+        "relevance_score": "0.997211",
+        "ticker_sentiment_score": "0.195949",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "JPM",
+        "relevance_score": "0.567988",
+        "ticker_sentiment_score": "0.337104",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.520560",
+        "ticker_sentiment_score": "0.237409",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "AMZN",
+        "relevance_score": "0.556817",
+        "ticker_sentiment_score": "0.241009",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
+    "time_published": "2026-03-25 15:39:35",
+    "source": "AD HOC NEWS",
+    "summary": "Dynatrace Inc reported mixed Q4 results, with revenue exceeding expectations but annual recurring revenue growth slowing due to elongated sales cycles in large enterprise deals. The company is relying on its AI-driven observability platform and integrations with hyperscalers to drive future growth, despite current headwinds in the enterprise software market and cautious IT budgets. US investors are watching the stock closely for its AI monetization potential and strong market position, even as concerns about net retention rates and competition persist.",
+    "headline": "Dynatrace Inc stock faces AI-driven growth scrutiny amid enterprise software slowdown",
+    "ticker_sentiment": [
+      {
+        "ticker": "DT",
+        "relevance_score": "1.000000",
+        "ticker_sentiment_score": "0.086155",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "DDOG",
+        "relevance_score": "0.683461",
+        "ticker_sentiment_score": "-0.191214",
+        "ticker_sentiment_label": "Somewhat-Bearish"
+      },
+      {
+        "ticker": "CRM",
+        "relevance_score": "0.578585",
+        "ticker_sentiment_score": "-0.098506",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "MSFT",
+        "relevance_score": "0.542721",
+        "ticker_sentiment_score": "0.116835",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  }
+]
